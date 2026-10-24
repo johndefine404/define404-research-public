@@ -195,8 +195,8 @@ Claude Haiku 5.5와 Sonnet 5.5는 이 조사의 지시문 조건에서 한국 �
 
 ## 자료 공개
 
-- 저장소: https://github.com/johndefine404/define404-research/tree/main/001-local404 (경로 `001-local404/`). 분석 코드와 자료를 모두 공개해요.
-- 리포트 확정 커밋: `b52ee75cd1fb6f35f8aed6381e866a3e3a54887c` (이후 정리 커밋은 결과 폴더 이름을 `analysis/out_dryrun`에서 `analysis/out_final`로 바꾸고, 시험 결과 안내 문구를 지우고, 문장 끝을 해요체로 바꿨어요. 수치는 바꾸지 않았어요)
+- 공개 저장소: https://github.com/johndefine404/define404-research-public/tree/main/001-local404 (경로 `001-local404/`). 분석 코드와 결과를 공개해요. 상호와 주소가 든 원 표본과 답변 원문은 빼고, 상호·주소를 뺀 표본을 실었어요.
+- 연구 저장소(비공개) 리포트 확정 커밋: `b52ee75cd1fb6f35f8aed6381e866a3e3a54887c` (이후 정리 커밋은 결과 폴더 이름을 `analysis/out_dryrun`에서 `analysis/out_final`로 바꾸고, 시험 결과 안내 문구를 지우고, 문장 끝을 해요체로 바꿨어요. 수치는 바꾸지 않았어요)
 - 시드: 표본 20261021, 검색 부표본 20261024, Llama 20261021
 - 표본 파일 `sampling/sample_v2.csv` SHA-256: `4aaf1ecd22963e703e3283c9223206e3cde2aa1e9daf6fde24f53fc8abc24871`
 - 사전등록 `prereg.md` SHA-256: `87be279e17ebc0922ca079845ea3959ee04ca1379033f7b2c5e5fd8a21abc02b`
