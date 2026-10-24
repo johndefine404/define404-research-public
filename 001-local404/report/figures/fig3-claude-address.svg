@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 262" role="img" aria-labelledby="f3-t f3-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f3-t">그림 3. Claude가 주소를 말한 답</title>
+<desc id="f3-d">Claude 계열 세 조건에서 주소를 말한 답은 영업 중인 가게 105번(맞음 101), 폐업한 가게 7번(맞음 6)</desc>
+<rect width="360" height="262" fill="#FBFAF7"/>
+<rect x="16.0" y="44" width="313.6" height="30" fill="#0A6797"/>
+<text x="23" y="64" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">101번</text>
+<text x="17" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">맞는 주소</text>
+<rect x="331.6" y="44" width="12.4" height="30" fill="#DA2D2D"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">영업 중인 가게: 주소를 말한 답 105번</text>
+<rect x="16.0" y="134" width="18.6" height="30" fill="#0A6797"/>
+<rect x="36.6" y="134" width="3.1" height="30" fill="#DA2D2D"/>
+<text x="16" y="120" font-size="14" font-weight="700" fill="#141414" text-anchor="start">폐업한 가게: 주소를 말한 답 7번</text>
+<text x="16" y="184" font-size="12" font-weight="500" fill="#6E6A63" text-anchor="start">빨간 칸은 틀린 주소예요</text>
+<line x1="16" y1="202" x2="344" y2="202" stroke="#D6D1C7"/>
+<text x="16" y="226" font-size="15" font-weight="700" fill="#141414" text-anchor="start">주소를 말한 112번 중 107번이 맞았어요</text>
+<text x="16" y="246" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">AI는 아는 가게만 주소를 말했어요</text>
+</svg>

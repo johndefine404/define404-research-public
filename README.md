@@ -14,6 +14,7 @@ Define404 Research 리포트의 분석 코드와 결과 자료예요. 리포트 
 - 판정 규칙: `001-local404/judge/rules.md`
 - 분석 코드: `001-local404/analysis/` (`run_analysis.py`, `load_data.py`, `auto_judge.py`, `stats_lib.py`)
 - 분석 결과: `001-local404/analysis/out_final/` (가설별 표, 답별 판정 `judgments.csv`, `results.json`)
+- 그림: `001-local404/report/figures/` (`analysis/make_figures.py`가 `out_final` 결과에서 다시 만들어요)
 - 수집 절차: `001-local404/collect/` (질문 틀, 수집 스크립트)
 - 표본: `001-local404/sampling/` (추출 코드, 상호·주소를 뺀 표본 `sample_v2_public.csv`, 검색 부표본 목록)
 

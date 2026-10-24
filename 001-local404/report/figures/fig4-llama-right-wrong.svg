@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 264" role="img" aria-labelledby="f4-t f4-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f4-t">그림 4. Llama가 딱 잘라 말한 답</title>
+<desc id="f4-d">폐업한 가게에 단정한 81번 중 59번이 영업 중이라는 오답, 영업 중인 가게에 단정한 105번 중 37번이 폐업이라는 오답. 맞음 90번, 틀림 96번</desc>
+<rect width="360" height="264" fill="#FBFAF7"/>
+<rect x="16.0" y="44" width="183.2" height="30" fill="#DA2D2D"/>
+<text x="23" y="64" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">59번</text>
+<text x="17" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"영업 중" 틀림</text>
+<rect x="201.2" y="44" width="68.3" height="30" fill="#0A6797"/>
+<text x="208.1809523809524" y="64" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">22번</text>
+<text x="202.1809523809524" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"폐업" 맞음</text>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">실제로는 폐업한 가게에 딱 잘라 말한 81번</text>
+<rect x="16.0" y="134" width="211.1" height="30" fill="#0A6797"/>
+<text x="23" y="154" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">68번</text>
+<text x="17" y="184" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"영업 중" 맞음</text>
+<rect x="229.1" y="134" width="114.9" height="30" fill="#DA2D2D"/>
+<text x="236.12380952380954" y="154" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">37번</text>
+<text x="230.12380952380954" y="184" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"폐업" 틀림</text>
+<text x="16" y="120" font-size="14" font-weight="700" fill="#141414" text-anchor="start">실제로 영업 중인 가게에 딱 잘라 말한 105번</text>
+<line x1="16" y1="204" x2="344" y2="204" stroke="#D6D1C7"/>
+<text x="16" y="228" font-size="15" font-weight="700" fill="#141414" text-anchor="start">맞음 90번, 틀림 96번</text>
+<text x="16" y="248" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">동전을 던져 고른 것과 비슷해요</text>
+</svg>
