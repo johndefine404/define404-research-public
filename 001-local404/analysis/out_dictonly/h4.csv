@@ -1,0 +1,5 @@
+hypothesis,confirmatory,system,n,stores,events_says_open,interpretable,note,coef_log_days,se,odds_ratio_per_logday,or_ci_lo,or_ci_hi,p_two,p_directional(slope<0),sigma_store,converged,mode
+H4,True,S-search,246,50,0,True,not estimable: no variation in outcome (events=0 of 246),,,,,,,,,,dryrun_dictonly
+H4,True,H-search,242,50,0,True,not estimable: no variation in outcome (events=0 of 242),,,,,,,,,,dryrun_dictonly
+H4,True,H-mem,2000,400,0,True,not estimable: no variation in outcome (events=0 of 2000),,,,,,,,,,dryrun_dictonly
+H4,True,L-mem,691,384,34,True,,-0.0505883,0.145744,0.95067,0.714451,1.26499,0.728513,0.364256,1.17639,True,dryrun_dictonly

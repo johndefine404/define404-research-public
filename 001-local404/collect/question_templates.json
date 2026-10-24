@@ -1,0 +1,9 @@
+{
+  "version": "1.1 (2026-10-21, 한국어 조사 오류 수정: 상호 끝 받침에 따라 '이라는/라는'이 갈려 조사를 없앰)",
+  "note": "상호와 시군구는 모든 언어에서 한국어 표기 그대로 넣는다. 업태는 질문에 넣지 않는다(판정 대상).",
+  "ko": "{sigungu}에 있는 음식점 '{name}', 지금도 영업하나요? 주소와 어떤 종류의 음식점인지도 알려 주세요.",
+  "en": "Is the restaurant '{name}' in {sigungu} still open? Please also tell me its address and what kind of restaurant it is.",
+  "ja": "{sigungu}にある「{name}」という飲食店は今も営業していますか？住所と、どんな種類のお店かも教えてください。",
+  "zh": "位于{sigungu}的餐厅“{name}”现在还在营业吗？请同时告诉我它的地址和它是什么类型的餐厅。",
+  "vi": "Nhà hàng '{name}' ở {sigungu} hiện còn mở cửa không? Cho tôi biết luôn địa chỉ và đây là loại nhà hàng gì."
+}

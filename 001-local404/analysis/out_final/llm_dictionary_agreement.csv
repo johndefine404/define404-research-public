@@ -1,0 +1,13 @@
+field,group,n,agreement,kappa,kappa_ci_lo,kappa_ci_hi
+status,all,1364,1,,,
+status,S-search,485,1,,,
+status,H-search,475,1,,,
+status,H-mem,404,1,,,
+address,all,1239,0.957224,0.352907,0.219757,0.480739
+address,S-search,448,0.953125,0.441562,0.223356,0.634288
+address,H-search,393,0.931298,0.300481,0.102736,0.483356
+address,H-mem,398,0.987437,0,0,0
+type,all,722,0.729917,0.457168,0.394656,0.517478
+type,S-search,300,0.776667,0.573954,0.488469,0.658835
+type,H-search,276,0.695652,0.375296,0.269554,0.47803
+type,H-mem,146,0.69863,0.347751,0.218631,0.47419

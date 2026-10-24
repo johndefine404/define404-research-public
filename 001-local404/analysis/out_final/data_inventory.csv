@@ -1,0 +1,6 @@
+system,expected,raw_files,valid,valid_from_raw,valid_from_retry,missing,missing_rate,invalid_search0_in_raw,searches_gt0_but_answer_mentions_search_limit,excluded_for_search_limit_text,lang_drift_flagged,excluded_for_lang_drift,hmem_drift_replaced_by_retry,search_validity,pilot_dropped,dup_dropped,bad_qid,empty_dropped,unexpected_qid,outside_subsample_dropped,note,mode
+S-search,500,160,500,30,470,0,0,467,0,0,0,0,0,strict,0,0,0,0,0,3500,,dryrun
+H-search,500,160,500,2,498,0,0,374,0,0,0,0,0,strict,0,0,0,0,0,3500,,dryrun
+H-mem,4000,20,4000,3800,200,0,0,0,0,0,0,0,200,strict,0,0,0,0,0,0,,dryrun
+L-mem,4000,3,2312,2312,0,1688,0.422,0,0,0,0,0,0,strict,0,0,0,0,0,0,,dryrun
+W-mem,,,0,,,,,,,,,,,,,,,,,,"탐색 전용, 확증 분석 제외 (원본 2211답)",dryrun

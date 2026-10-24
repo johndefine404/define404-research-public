@@ -1,0 +1,23 @@
+{
+ "batches": 15,
+ "batches_missing_output": [],
+ "items_valid": 1437,
+ "keys_written": 1418,
+ "problems": [],
+ "stats": {
+  "status=unknown": 1436,
+  "type=None": 650,
+  "address=null": 1406,
+  "type=치킨호프주점": 179,
+  "type=한식": 291,
+  "type=분식": 57,
+  "type=양식": 57,
+  "type=카페디저트": 99,
+  "address=given": 31,
+  "type=일식": 30,
+  "type=중식": 43,
+  "type=기타": 31,
+  "status=open": 1,
+  "address_converted_from_other_script": 1
+ }
+}

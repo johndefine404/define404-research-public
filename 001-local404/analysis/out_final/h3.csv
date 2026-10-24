@@ -1,0 +1,7 @@
+hypothesis,confirmatory,lang,n_pairs,stores,error_search,error_mem,diff_search_minus_mem,se,ci_lo,ci_hi,p_two,p_directional(search<mem),interpretable,note,mode
+H3,True,all,500,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H3,False,ko,100,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H3,False,en,100,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H3,False,ja,100,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H3,False,zh,100,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H3,False,vi,100,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun

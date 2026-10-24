@@ -1,0 +1,33 @@
+hypothesis,confirmatory,score,system,lang,n_pairs,acc_ko_paired,acc_lang_paired,diff_lang_minus_ko,se,ci_lo,ci_hi,p_two,p_directional(lang<ko),interpretable,note,mode
+H2,True,lenient,S-search,en,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,S-search,ja,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,S-search,zh,100,0,0.01,0.01,0.01,-0.00959964,0.0295996,0.317311,0.841345,True,,dryrun
+H2,True,lenient,S-search,vi,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,S-search,en,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,S-search,ja,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,S-search,zh,100,0,0.01,0.01,0.01,-0.00959964,0.0295996,0.317311,0.841345,True,,dryrun
+H2,False,strict,S-search,vi,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-search,en,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-search,ja,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-search,zh,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-search,vi,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-search,en,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-search,ja,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-search,zh,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-search,vi,100,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-mem,en,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-mem,ja,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-mem,zh,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,H-mem,vi,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-mem,en,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-mem,ja,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-mem,zh,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,False,strict,H-mem,vi,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun
+H2,True,lenient,L-mem,en,352,0.15625,0.00568182,-0.150568,0.0199187,-0.189608,-0.111528,4.05767e-14,2.02884e-14,True,,dryrun
+H2,True,lenient,L-mem,ja,245,0.159184,0.0571429,-0.102041,0.0278747,-0.156674,-0.0474074,0.00025153,0.000125765,True,,dryrun
+H2,True,lenient,L-mem,zh,0,,,,,,,,,False,no pairs,dryrun
+H2,True,lenient,L-mem,vi,0,,,,,,,,,False,no pairs,dryrun
+H2,False,strict,L-mem,en,314,0.0573248,0.00318471,-0.0541401,0.0135631,-0.0807232,-0.027557,6.55918e-05,3.27959e-05,True,,dryrun
+H2,False,strict,L-mem,ja,215,0.0697674,0.027907,-0.0418605,0.0211715,-0.0833559,-0.000365005,0.0480185,0.0240093,True,,dryrun
+H2,False,strict,L-mem,zh,0,,,,,,,,,False,no pairs,dryrun
+H2,False,strict,L-mem,vi,0,,,,,,,,,False,no pairs,dryrun

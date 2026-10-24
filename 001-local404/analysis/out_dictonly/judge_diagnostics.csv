@@ -1,0 +1,5 @@
+system,n,status=unknown,status=review,address=none,address=review,address=match,type=none,type=na,type=match,type=review,judge_source_llm,status=open,status=closed,mode
+S-search,500,485,15,423,52,25,189,150,111,50,0,0,0,dryrun_dictonly
+H-search,500,475,25,364,107,29,166,150,110,74,0,0,0,dryrun_dictonly
+H-mem,4000,4000,0,3942,6,52,2312,940,538,210,0,0,0,dryrun_dictonly
+L-mem,1897,1286,494,1523,325,49,1022,445,204,226,0,76,41,dryrun_dictonly

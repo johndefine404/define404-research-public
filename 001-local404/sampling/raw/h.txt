@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+X-Content-Type-Options: nosniff
+Connection: keep-alive
+Pragma: no-cache
+Date: Tue, 20 Oct 2026 17:01:39 GMT
+Accept-Ranges: bytes
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-OYZJ+4aL6k15P1xwUslJPA=='; style-src 'self'; object-src 'none'; img-src 'self'; font-src 'self' data:; form-action 'self'; frame-ancestors 'self';
+Content-Disposition: attachment; filename*=UTF-8''%EC%8B%9D%ED%92%88_%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90.csv
+Set-Cookie: XSRF-TOKEN=281f62e6-e824-493a-88a0-1078822ad26b; Path=/; Secure
+Set-Cookie: WMONID=zlOUH2J6mS6; Expires=Thu, 21-Oct-2027 02:01:39 GMT; Path=/
+Expires: 0
+Content-Length: 699785313
+X-XSS-Protection: 1; mode=block
+Content-Type: text/csv;charset=UTF-8
+

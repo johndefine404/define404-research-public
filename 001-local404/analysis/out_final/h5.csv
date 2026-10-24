@@ -1,0 +1,5 @@
+hypothesis,confirmatory,system,n_stores_all5,n_inconsistent,prop_inconsistent,wilson_lo,wilson_hi,exact_lo,exact_hi,exact_lower_onesided_95,supported(lower>0),n_open_vs_closed_conflict(exploratory),prop_open_vs_closed_conflict(exploratory),interpretable,note,mode
+H5,True,S-search,100,1,0.01,0.00176743,0.0544862,0.000253146,0.0544594,0.000512801,True,0,0,True,p-value undefined for H0: p=0; decision by CI lower bound,dryrun
+H5,True,H-search,100,0,0,3.46945e-18,0.0369935,0,0.0362167,0,False,0,0,True,p-value undefined for H0: p=0; decision by CI lower bound,dryrun
+H5,True,H-mem,800,0,0,4.33681e-19,0.00477888,0,0.00460048,0,False,0,0,True,p-value undefined for H0: p=0; decision by CI lower bound,dryrun
+H5,True,L-mem,0,,,,,,,,,,,False,no store has all 5 languages,dryrun

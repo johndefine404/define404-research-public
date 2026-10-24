@@ -1,0 +1,1 @@
+DRY-RUN DICTIONARY-ONLY (사전 판정 단독, LLM 보조 라벨 미사용; 미해결은 review=미판정). prereg 8절 원 규칙 결과 보고용. 논문·보도에 쓰지 말 것.

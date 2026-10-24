@@ -1,0 +1,33 @@
+hypothesis,confirmatory,score,system,lang,n_pairs,acc_ko_paired,acc_lang_paired,diff_lang_minus_ko,se,ci_lo,ci_hi,p_two,p_directional(lang<ko),interpretable,note,mode
+H2,True,lenient,S-search,en,97,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,S-search,ja,95,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,S-search,zh,94,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,S-search,vi,96,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,S-search,en,97,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,S-search,ja,95,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,S-search,zh,94,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,S-search,vi,96,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-search,en,97,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-search,ja,96,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-search,zh,94,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-search,vi,85,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-search,en,97,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-search,ja,96,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-search,zh,94,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-search,vi,85,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-mem,en,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-mem,ja,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-mem,zh,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,H-mem,vi,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-mem,en,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-mem,ja,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-mem,zh,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,False,strict,H-mem,vi,800,0,0,0,0,0,0,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H2,True,lenient,L-mem,en,130,0.176923,0.00769231,-0.169231,0.0347724,-0.237383,-0.101078,1.13411e-06,5.67056e-07,True,,dryrun_dictonly
+H2,True,lenient,L-mem,ja,93,0.172043,0.0322581,-0.139785,0.0448138,-0.227618,-0.0519516,0.00181318,0.000906589,True,,dryrun_dictonly
+H2,True,lenient,L-mem,zh,0,,,,,,,,,False,no pairs,dryrun_dictonly
+H2,True,lenient,L-mem,vi,0,,,,,,,,,False,no pairs,dryrun_dictonly
+H2,False,strict,L-mem,en,114,0.0614035,0.00877193,-0.0526316,0.0244235,-0.100501,-0.00476239,0.0311653,0.0155826,True,,dryrun_dictonly
+H2,False,strict,L-mem,ja,81,0.0617284,0.0246914,-0.037037,0.0326052,-0.100942,0.026868,0.255989,0.127994,True,,dryrun_dictonly
+H2,False,strict,L-mem,zh,0,,,,,,,,,False,no pairs,dryrun_dictonly
+H2,False,strict,L-mem,vi,0,,,,,,,,,False,no pairs,dryrun_dictonly

@@ -1,0 +1,9 @@
+hypothesis,confirmatory,variant,system,n_closed,stores_closed,p_says_open_given_closed,ci_a_lo,ci_a_hi,n_open,stores_open,p_says_closed_given_open,ci_b_lo,ci_b_hi,diff_A_minus_B,se,ci_lo,ci_hi,z,p_two,p_directional(A>B),interpretable,note,mode
+H1,True,all_answers,S-search,246,50,0,0,0,239,50,0,0,0,0,0,0,0,,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H1,False,committed_only(exploratory),S-search,0,0,,,,0,0,,,,,,,,,,,False,se=0 or undefined: test not computed,dryrun_dictonly
+H1,True,all_answers,H-search,242,50,0,0,0,233,50,0,0,0,0,0,0,0,,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H1,False,committed_only(exploratory),H-search,0,0,,,,0,0,,,,,,,,,,,False,se=0 or undefined: test not computed,dryrun_dictonly
+H1,True,all_answers,H-mem,2000,400,0,0,0,2000,400,0,0,0,0,0,0,0,,,,True,se=0 or undefined: test not computed,dryrun_dictonly
+H1,False,committed_only(exploratory),H-mem,0,0,,,,0,0,,,,,,,,,,,False,se=0 or undefined: test not computed,dryrun_dictonly
+H1,True,all_answers,L-mem,691,384,0.0492041,0.0322119,0.0661962,712,392,0.0365169,0.0225305,0.0505032,0.0126872,0.0112288,-0.00932079,0.0346952,1.12988,0.258526,0.129263,True,,dryrun_dictonly
+H1,False,committed_only(exploratory),L-mem,49,44,0.693878,0.565156,0.822599,68,67,0.382353,0.263245,0.501461,0.311525,0.089478,0.136151,0.486898,3.48158,0.000498471,0.000249236,True,,dryrun_dictonly

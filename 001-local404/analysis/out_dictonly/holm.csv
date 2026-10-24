@@ -1,0 +1,26 @@
+hypothesis,test,p_two,p_directional,interpretable,in_family,holm_p_two_all,holm_p_directional_all,holm_p_two_by_hypothesis,holm_p_directional_by_hypothesis,note,mode
+H1,S-search,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H1,H-search,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H1,H-mem,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H1,L-mem,0.258526,0.129263,True,True,0.517051,0.258526,0.258526,0.129263,,dryrun_dictonly
+H2,S-search|en,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,S-search|ja,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,S-search|zh,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,S-search|vi,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-search|en,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-search|ja,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-search|zh,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-search|vi,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-mem|en,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-mem|ja,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-mem|zh,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,H-mem|vi,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,L-mem|en,1.13411e-06,5.67056e-07,True,True,4.53645e-06,2.26822e-06,2.26822e-06,1.13411e-06,,dryrun_dictonly
+H2,L-mem|ja,0.00181318,0.000906589,True,True,0.00543953,0.00271977,0.00181318,0.000906589,,dryrun_dictonly
+H2,L-mem|zh,,,False,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H2,L-mem|vi,,,False,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H3,H-search vs H-mem (all langs),,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H4,S-search,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H4,H-search,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H4,H-mem,,,True,False,,,,,not in Holm family: cell n<40 or p undefined,dryrun_dictonly
+H4,L-mem,0.728513,0.364256,True,True,0.728513,0.364256,0.728513,0.364256,,dryrun_dictonly
