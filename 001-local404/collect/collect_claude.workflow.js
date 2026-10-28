@@ -6,7 +6,7 @@ export const meta = {
     { title: 'Search', detail: 'Sonnet·Haiku 검색 조건 25문항 배치 320개' },
   ],
 }
-const DIR = (args && args.dir) || '/Users/johnkim/define404-hub/1-define404/define404-research/001-local404/collect'
+const DIR = (args && args.dir) || '/Users/johnkim/define404-hub/define404/define404-research/001-local404/collect'
 const LANGS = ['ko', 'en', 'ja', 'zh', 'vi']
 const pad = (n) => String(n).padStart(3, '0')
 let batches = []

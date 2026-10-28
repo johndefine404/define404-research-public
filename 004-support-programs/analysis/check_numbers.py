@@ -15,7 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 MD = ROOT / "report" / "support_ko.md"
-HTML = Path("/Users/johnkim/define404-hub/1-define404/define404-site/report-src/005-support-program-deadlines.html")
+HTML = Path("/Users/johnkim/define404-hub/define404/define404-site/report-src/005-support-program-deadlines.html")
 
 r11 = json.load(open(ROOT / "analysis/out/results.json", encoding="utf-8"))
 r10 = json.load(open(ROOT / "analysis/out_v10/results.json", encoding="utf-8"))
