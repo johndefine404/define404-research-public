@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 323" role="img" aria-labelledby="f4-t f4-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f4-t">그림 4. 말한 업종은 맞았을까요</title>
+<desc id="f4-d">기억 조건에서 업종을 말한 답 가운데 맞은 비율은 한국어 77.4%, 영어 71.6%, 일본어 76.4%, 중국어 79.1%, 베트남어 73.2%. 언어 간 차이가 작아요</desc>
+<rect width="360" height="323" fill="#FBFAF7"/>
+<text x="16" y="26" font-size="15" font-weight="700" fill="#141414" text-anchor="start">업종을 말했을 때 맞은 비율</text>
+<text x="16" y="46" font-size="12" font-weight="500" fill="#6E6A63" text-anchor="start">기억 조건, 업종을 말한 답만. 답 수는 한국어 234개, 영어 67개,</text>
+<text x="16" y="63" font-size="12" font-weight="500" fill="#6E6A63" text-anchor="start">일본어 110개, 중국어 148개, 베트남어 179개</text>
+<text x="16" y="101" font-size="13.5" font-weight="700" fill="#141414" text-anchor="start">한국어</text>
+<rect x="88" y="86" width="164.1" height="22" fill="#0A6797"/>
+<text x="258.088" y="101" font-size="13" font-weight="700" fill="#141414" text-anchor="start">77.4%</text>
+<text x="16" y="133" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">영어</text>
+<rect x="88" y="118" width="151.8" height="22" fill="#0A6797"/>
+<text x="245.792" y="133" font-size="13" font-weight="500" fill="#141414" text-anchor="start">71.6%</text>
+<text x="16" y="165" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">일본어</text>
+<rect x="88" y="150" width="162.0" height="22" fill="#0A6797"/>
+<text x="255.96800000000002" y="165" font-size="13" font-weight="500" fill="#141414" text-anchor="start">76.4%</text>
+<text x="16" y="197" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">중국어</text>
+<rect x="88" y="182" width="167.7" height="22" fill="#0A6797"/>
+<text x="261.692" y="197" font-size="13" font-weight="500" fill="#141414" text-anchor="start">79.1%</text>
+<text x="16" y="229" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">베트남어</text>
+<rect x="88" y="214" width="155.2" height="22" fill="#0A6797"/>
+<text x="249.18400000000003" y="229" font-size="13" font-weight="500" fill="#141414" text-anchor="start">73.2%</text>
+<line x1="16" y1="248" x2="344" y2="248" stroke="#D6D1C7"/>
+<text x="16" y="272" font-size="14" font-weight="700" fill="#141414" text-anchor="start">어느 언어든 71.6~79.1%, 서로 비슷해요</text>
+<text x="16" y="296" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">더 자주 말한다고 더 자주 맞지는 않았어요</text>
+</svg>

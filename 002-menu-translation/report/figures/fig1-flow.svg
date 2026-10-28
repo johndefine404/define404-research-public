@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 448" role="img" aria-labelledby="f1-t f1-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f1-t">그림 1. 이렇게 조사했어요</title>
+<desc id="f1-d">한식 메뉴 180개를 뽑아 영어와 일본어로 묻고, 웹 검색을 쓰는 Claude의 답 360개를 정부 표준 표기와 맞춰 똑같음, 비슷함, 다름으로 나눈 순서</desc>
+<rect width="360" height="448" fill="#FBFAF7"/>
+<circle cx="28" cy="36" r="12" fill="#0A6797"/>
+<text x="28" y="41" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="52" y="42" font-size="16" font-weight="700" fill="#141414" text-anchor="start">한식 메뉴 180개를 뽑았어요</text>
+<text x="52" y="64" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">정부 표준 표기가 있는 778개 가운데 음식 갈래별로</text>
+<text x="52" y="84" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">골고루</text>
+<line x1="28" y1="52" x2="28" y2="106" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="124" r="12" fill="#0A6797"/>
+<text x="28" y="129" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="52" y="130" font-size="16" font-weight="700" fill="#141414" text-anchor="start">사장님처럼 물었어요</text>
+<text x="52" y="152" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">"외국어 메뉴판을 만드는데 이 메뉴는 뭐라고 써요?"</text>
+<text x="52" y="172" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">영어와 일본어로 하나씩</text>
+<line x1="28" y1="140" x2="28" y2="194" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="212" r="12" fill="#0A6797"/>
+<text x="28" y="217" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="52" y="218" font-size="16" font-weight="700" fill="#141414" text-anchor="start">웹 검색을 쓰는 AI가 답했어요</text>
+<text x="52" y="240" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">Claude Sonnet이 검색한 뒤 메뉴명 하나를</text>
+<text x="52" y="260" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">답했어요. 답 360개</text>
+<line x1="28" y1="228" x2="28" y2="282" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="300" r="12" fill="#0A6797"/>
+<text x="28" y="305" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="52" y="306" font-size="16" font-weight="700" fill="#141414" text-anchor="start">정부 표준과 맞춰 봤어요</text>
+<text x="52" y="328" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">한식진흥원 표준 표기와 글자를 맞춰 똑같음, 비슷함,</text>
+<text x="52" y="348" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">다름으로 나눴어요</text>
+<line x1="28" y1="316" x2="28" y2="370" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="388" r="12" fill="#0A6797"/>
+<text x="28" y="393" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="52" y="394" font-size="16" font-weight="700" fill="#141414" text-anchor="start">출처도 봤어요</text>
+<text x="52" y="416" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">답이 정부 표준 사이트를 출처로 들었는지 세어 봤어요</text>
+</svg>

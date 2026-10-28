@@ -1,0 +1,2 @@
+system,langs,n_shops,n_inconsistent,prop_inconsistent,wilson_lo,wilson_hi,n_open_vs_closed_conflict,interpretable,confirmatory
+L-mem,"ko,en,ja",230,97,0.4217391304347826,0.3597164550547376,0.4863330855974861,0,True,False

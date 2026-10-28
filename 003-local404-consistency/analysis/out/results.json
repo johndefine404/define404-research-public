@@ -1,0 +1,203 @@
+{
+  "episode": "003-local404-consistency",
+  "generated_at": "2026-10-28T16:40:18.473707+00:00",
+  "inputs": {
+    "judgments_csv": "/Users/johnkim/define404-hub/1-define404/define404-research/001-local404/analysis/out_final/judgments.csv",
+    "judgments_sha256": "37220e4ee92e815a968f91d1b4c80f4b3e84aa0d95e3415fc269bb3fab01bf26",
+    "stats_lib": "/Users/johnkim/define404-hub/1-define404/define404-research/001-local404/analysis/stats_lib.py",
+    "stats_lib_sha256": "206d5e4191f0c436305866daa90ca328b92afde972cb908aefac0f0101ae94fb"
+  },
+  "min_cell_n": 40,
+  "alpha": 0.05,
+  "holm_family": [
+    "H1",
+    "H2a",
+    "H2b",
+    "H3"
+  ],
+  "confirmatory": {
+    "H1": {
+      "hypothesis": "H1",
+      "confirmatory": true,
+      "system": "H-mem",
+      "measure": "said_type",
+      "n_shops": 612,
+      "n_shops_dropped_incomplete": 0,
+      "interpretable": true,
+      "comparison": "ko - mean(en,ja,zh,vi)",
+      "rate_ko": 0.38235294117647056,
+      "rate_others_mean": 0.20588235294117646,
+      "diff": 0.17647058823529413,
+      "se": 0.012922282239562289,
+      "ci_lo": 0.15114338044769046,
+      "ci_hi": 0.2017977960228978,
+      "p_two": 1.851503199900424e-42,
+      "p_greater": 9.25751599950212e-43,
+      "note": ""
+    },
+    "H2": [
+      {
+        "hypothesis": "H2a",
+        "confirmatory": true,
+        "system": "S-search",
+        "measure": "said_type",
+        "n_shops": 70,
+        "n_shops_dropped_incomplete": 0,
+        "interpretable": true,
+        "comparison": "ko - mean(en,ja,zh,vi)",
+        "rate_ko": 0.45714285714285713,
+        "rate_others_mean": 0.41785714285714287,
+        "diff": 0.039285714285714285,
+        "se": 0.024732374093589058,
+        "ci_lo": -0.009188848189891734,
+        "ci_hi": 0.08776027676132031,
+        "p_two": 0.11218850497055013,
+        "p_greater": 0.05609425248527507,
+        "note": ""
+      },
+      {
+        "hypothesis": "H2b",
+        "confirmatory": true,
+        "system": "H-search",
+        "measure": "said_type",
+        "n_shops": 70,
+        "n_shops_dropped_incomplete": 0,
+        "interpretable": true,
+        "comparison": "ko - mean(en,ja,zh,vi)",
+        "rate_ko": 0.42857142857142855,
+        "rate_others_mean": 0.3964285714285714,
+        "diff": 0.03214285714285714,
+        "se": 0.042233646108876366,
+        "ci_lo": -0.05063356816635073,
+        "ci_hi": 0.11491928245206501,
+        "p_two": 0.4466138990286287,
+        "p_greater": 0.22330694951431435,
+        "note": ""
+      }
+    ],
+    "H3": {
+      "hypothesis": "H3",
+      "confirmatory": true,
+      "system": "H-mem",
+      "measure": "said_type",
+      "comparison": "inconsistent(kakao registered) - inconsistent(unregistered)",
+      "n_registered": 310,
+      "n_unregistered": 302,
+      "rate_registered": 0.3903225806451613,
+      "rate_unregistered": 0.4602649006622517,
+      "diff": -0.06994232001709039,
+      "se": 0.03994310437017915,
+      "ci_lo": -0.14822936601336595,
+      "ci_hi": 0.008344725979185189,
+      "p_two": 0.07993752581812816,
+      "p_greater": 0.960031237090936,
+      "interpretable": true,
+      "note": ""
+    },
+    "holm": [
+      {
+        "hypothesis": "H1",
+        "system": "H-mem",
+        "comparison": "ko - mean(en,ja,zh,vi)",
+        "diff": 0.17647058823529413,
+        "ci_lo": 0.15114338044769046,
+        "ci_hi": 0.2017977960228978,
+        "p_two": 1.851503199900424e-42,
+        "holm_p_two": 7.406012799601696e-42,
+        "p_greater_onesided": 9.25751599950212e-43,
+        "in_family": true,
+        "supported(holm_p<0.05 and diff>0)": true,
+        "interpretable": true,
+        "note": ""
+      },
+      {
+        "hypothesis": "H2a",
+        "system": "S-search",
+        "comparison": "ko - mean(en,ja,zh,vi)",
+        "diff": 0.039285714285714285,
+        "ci_lo": -0.009188848189891734,
+        "ci_hi": 0.08776027676132031,
+        "p_two": 0.11218850497055013,
+        "holm_p_two": 0.23981257745438447,
+        "p_greater_onesided": 0.05609425248527507,
+        "in_family": true,
+        "supported(holm_p<0.05 and diff>0)": false,
+        "interpretable": true,
+        "note": ""
+      },
+      {
+        "hypothesis": "H2b",
+        "system": "H-search",
+        "comparison": "ko - mean(en,ja,zh,vi)",
+        "diff": 0.03214285714285714,
+        "ci_lo": -0.05063356816635073,
+        "ci_hi": 0.11491928245206501,
+        "p_two": 0.4466138990286287,
+        "holm_p_two": 0.4466138990286287,
+        "p_greater_onesided": 0.22330694951431435,
+        "in_family": true,
+        "supported(holm_p<0.05 and diff>0)": false,
+        "interpretable": true,
+        "note": ""
+      },
+      {
+        "hypothesis": "H3",
+        "system": "H-mem",
+        "comparison": "inconsistent(kakao registered) - inconsistent(unregistered)",
+        "diff": -0.06994232001709039,
+        "ci_lo": -0.14822936601336595,
+        "ci_hi": 0.008344725979185189,
+        "p_two": 0.07993752581812816,
+        "holm_p_two": 0.23981257745438447,
+        "p_greater_onesided": 0.960031237090936,
+        "in_family": true,
+        "supported(holm_p<0.05 and diff>0)": false,
+        "interpretable": true,
+        "note": ""
+      }
+    ]
+  },
+  "inventory": [
+    {
+      "system": "H-mem",
+      "n_answers": 4000,
+      "n_shops": 800,
+      "type_na_excluded(truth=기타)": 940,
+      "type_review_unresolved": 0,
+      "address_review_unresolved": 0,
+      "shops_complete_5lang_said_type": 612
+    },
+    {
+      "system": "H-search",
+      "n_answers": 500,
+      "n_shops": 100,
+      "type_na_excluded(truth=기타)": 150,
+      "type_review_unresolved": 0,
+      "address_review_unresolved": 0,
+      "shops_complete_5lang_said_type": 70
+    },
+    {
+      "system": "L-mem",
+      "n_answers": 2312,
+      "n_shops": 800,
+      "type_na_excluded(truth=기타)": 539,
+      "type_review_unresolved": 290,
+      "address_review_unresolved": 500,
+      "shops_complete_5lang_said_type": 0
+    },
+    {
+      "system": "S-search",
+      "n_answers": 500,
+      "n_shops": 100,
+      "type_na_excluded(truth=기타)": 150,
+      "type_review_unresolved": 0,
+      "address_review_unresolved": 0,
+      "shops_complete_5lang_said_type": 70
+    }
+  ],
+  "versions": {
+    "python": "3.15.0",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0"
+  }
+}

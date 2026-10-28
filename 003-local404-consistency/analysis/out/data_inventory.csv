@@ -1,0 +1,5 @@
+system,n_answers,n_shops,type_na_excluded(truth=기타),type_review_unresolved,address_review_unresolved,shops_complete_5lang_said_type
+H-mem,4000,800,940,0,0,612
+H-search,500,100,150,0,0,70
+L-mem,2312,800,539,290,500,0
+S-search,500,100,150,0,0,70

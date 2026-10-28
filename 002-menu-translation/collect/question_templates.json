@@ -1,0 +1,6 @@
+{
+  "version": "1.0 (2026-10-28 고정)",
+  "note": "요리명은 모든 언어에서 한국어 표기 그대로 넣는다. 표준 표기·한식진흥원·길라잡이를 질문에 언급하지 않는다. 첫 줄 'NAME:' 형식은 자동 판정을 위한 것이며, 형식을 안 지킨 답은 judge/rules.md 2절의 보조 규칙으로 뽑는다.",
+  "en": "I run a Korean restaurant in Korea and I'm making an English menu. How should I write the dish '{ko}' on the menu? Put one English menu name on the first line in the form 'NAME: ...', then add one or two short sentences of explanation.",
+  "ja": "韓国で韓国料理店をやっていて、日本語のメニューを作っています。「{ko}」という料理はメニューにどう書けばいいですか。1行目に「NAME: ...」の形でメニュー名を1つだけ書いて、そのあとに1〜2文で短く説明してください。"
+}

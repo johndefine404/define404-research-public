@@ -1,0 +1,7 @@
+원천 행: 진행 1445, 마감 26425
+제외 사유: duplicate-title 699, expired-end-out-of-window 23522, no-date 68, not-yet-open 16, ongoing-end-out-of-window 360
+후보 ongoing/central: 265
+후보 ongoing/local: 752
+후보 expired/central: 718
+후보 expired/local: 1470
+표본 200곳, 시드 20261028, sample.csv SHA256 893f36426392a7fddee39ed59d8a960df959dbc2df6603a8ed0b919fe4a86df5

@@ -1,0 +1,6 @@
+# 분석 파이프라인 의존성 (파이썬 3.11+ 에서 확인: 3.13)
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+# 선택: tests/test_stats_lib.py 의 교차 검증에만 쓴다 (없으면 해당 검사는 건너뜀)
+# statsmodels>=0.14

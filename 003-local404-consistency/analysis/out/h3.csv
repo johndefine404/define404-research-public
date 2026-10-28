@@ -1,0 +1,2 @@
+hypothesis,confirmatory,system,measure,comparison,n_registered,n_unregistered,rate_registered,rate_unregistered,diff,se,ci_lo,ci_hi,p_two,p_greater,interpretable,note
+H3,True,H-mem,said_type,inconsistent(kakao registered) - inconsistent(unregistered),310,302,0.3903225806451613,0.4602649006622517,-0.06994232001709039,0.03994310437017915,-0.14822936601336595,0.008344725979185189,0.07993752581812816,0.960031237090936,True,

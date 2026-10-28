@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 276" role="img" aria-labelledby="f4-t f4-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f4-t">그림 4. 틀린 방향으로 딱 잘라 말한 답은 0번이에요</title>
+<desc id="f4-d">마감된 공고 100건에 "마감됐어요" 35번, "아직 돼요" 0번, 모름 65번. 진행 중인 공고 100건에 "아직 돼요" 23번, "마감됐어요" 0번, 모름 77번</desc>
+<rect width="360" height="276" fill="#FBFAF7"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">이미 마감된 공고 100건</text>
+<rect x="16.0" y="44" width="113.4" height="30" fill="#0A6797"/>
+<text x="23" y="64" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">35번</text>
+<rect x="131.4" y="44" width="210.6" height="30" fill="#D6D1C7"/>
+<text x="138.4" y="64" font-size="13" font-weight="700" fill="#141414" text-anchor="start">65번</text>
+<rect x="16" y="84" width="11" height="11" rx="2" fill="#0A6797"/>
+<text x="32" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"끝났어요" 맞음 35번</text>
+<rect x="150.16" y="84" width="11" height="11" rx="2" fill="#DA2D2D"/>
+<text x="166.16" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"아직 돼요" 틀림 0번</text>
+<rect x="280.72" y="84" width="11" height="11" rx="2" fill="#D6D1C7"/>
+<text x="296.72" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">모름 65번</text>
+<text x="16" y="128" font-size="14" font-weight="700" fill="#141414" text-anchor="start">지금 진행 중인 공고 100건</text>
+<rect x="16.0" y="142" width="74.5" height="30" fill="#0A6797"/>
+<text x="23" y="162" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">23번</text>
+<rect x="92.5" y="142" width="249.5" height="30" fill="#D6D1C7"/>
+<text x="99.52000000000001" y="162" font-size="13" font-weight="700" fill="#141414" text-anchor="start">77번</text>
+<rect x="16" y="182" width="11" height="11" rx="2" fill="#0A6797"/>
+<text x="32" y="192" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"아직 돼요" 맞음 23번</text>
+<rect x="153.51999999999998" y="182" width="11" height="11" rx="2" fill="#DA2D2D"/>
+<text x="169.51999999999998" y="192" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">"끝났어요" 틀림 0번</text>
+<rect x="280.71999999999997" y="182" width="11" height="11" rx="2" fill="#D6D1C7"/>
+<text x="296.71999999999997" y="192" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">모름 77번</text>
+<line x1="16" y1="216" x2="344" y2="216" stroke="#D6D1C7"/>
+<text x="16" y="240" font-size="15" font-weight="700" fill="#141414" text-anchor="start">틀린 방향으로 딱 잘라 말한 답은 0번이에요</text>
+<text x="16" y="260" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">끝난 사업을 아직 된다고 한 답은 없었어요</text>
+</svg>

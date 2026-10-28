@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 319" role="img" aria-labelledby="f2-t f2-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f2-t">그림 2. 어느 언어로 물으면 업종을 말할까요</title>
+<desc id="f2-d">기억 조건에서 같은 가게 612곳에 대해 업종을 말한 비율은 한국어 38.2%, 베트남어 29.2%, 중국어 24.2%, 일본어 18.0%, 영어 10.9%. 한국어가 나머지 평균보다 17.6%p 높아요</desc>
+<rect width="360" height="319" fill="#FBFAF7"/>
+<text x="16" y="26" font-size="15" font-weight="700" fill="#141414" text-anchor="start">같은 가게 612곳, 업종을 말한 비율</text>
+<text x="16" y="46" font-size="12" font-weight="500" fill="#6E6A63" text-anchor="start">웹 검색 없이 기억만으로 답한 Claude Haiku</text>
+<text x="16" y="77" font-size="13.5" font-weight="700" fill="#141414" text-anchor="start">한국어</text>
+<rect x="88" y="62" width="81.0" height="22" fill="#0A6797"/>
+<text x="174.984" y="77" font-size="13" font-weight="700" fill="#141414" text-anchor="start">38.2%</text>
+<text x="16" y="109" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">베트남어</text>
+<rect x="88" y="94" width="61.9" height="22" fill="#B9B3A7"/>
+<text x="155.904" y="109" font-size="13" font-weight="500" fill="#141414" text-anchor="start">29.2%</text>
+<text x="16" y="141" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">중국어</text>
+<rect x="88" y="126" width="51.3" height="22" fill="#B9B3A7"/>
+<text x="145.304" y="141" font-size="13" font-weight="500" fill="#141414" text-anchor="start">24.2%</text>
+<text x="16" y="173" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">일본어</text>
+<rect x="88" y="158" width="38.2" height="22" fill="#B9B3A7"/>
+<text x="132.16" y="173" font-size="13" font-weight="500" fill="#141414" text-anchor="start">18.0%</text>
+<text x="16" y="205" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">영어</text>
+<rect x="88" y="190" width="23.1" height="22" fill="#B9B3A7"/>
+<text x="117.108" y="205" font-size="13" font-weight="500" fill="#141414" text-anchor="start">10.9%</text>
+<line x1="16" y1="224" x2="344" y2="224" stroke="#D6D1C7"/>
+<text x="16" y="248" font-size="14" font-weight="700" fill="#141414" text-anchor="start">한국어로 물으면 38.2%, 나머지 4개 언어 평균은</text>
+<text x="16" y="268" font-size="14" font-weight="700" fill="#141414" text-anchor="start">20.6%예요</text>
+<text x="16" y="292" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">한국어가 17.6%p 더 자주 업종을 말했어요</text>
+</svg>

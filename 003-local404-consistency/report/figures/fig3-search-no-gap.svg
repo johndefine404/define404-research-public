@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 343" role="img" aria-labelledby="f3-t f3-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f3-t">그림 3. 웹 검색을 켜면 어떨까요</title>
+<desc id="f3-d">웹 검색 조건 70곳에서 업종을 말한 비율은 Sonnet 한국어 45.7% 대 나머지 평균 41.8%, Haiku 한국어 42.9% 대 39.6%. 차이는 오차 범위 안</desc>
+<rect width="360" height="343" fill="#FBFAF7"/>
+<text x="16" y="26" font-size="15" font-weight="700" fill="#141414" text-anchor="start">웹 검색을 켜고 답한 70곳에서는</text>
+<text x="16" y="58" font-size="13.5" font-weight="700" fill="#141414" text-anchor="start">Claude Sonnet, 웹 검색</text>
+<text x="16" y="81" font-size="13.5" font-weight="700" fill="#141414" text-anchor="start">한국어</text>
+<rect x="124" y="66" width="80.4" height="22" fill="#0A6797"/>
+<text x="210.43200000000002" y="81" font-size="13" font-weight="700" fill="#141414" text-anchor="start">45.7%</text>
+<text x="16" y="113" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">나머지 4개 평균</text>
+<rect x="124" y="98" width="73.6" height="22" fill="#B9B3A7"/>
+<text x="203.56799999999998" y="113" font-size="13" font-weight="500" fill="#141414" text-anchor="start">41.8%</text>
+<text x="16" y="132" font-size="12" font-weight="500" fill="#6E6A63" text-anchor="start">차이 3.9%p, 오차 범위 안이에요</text>
+<text x="16" y="170" font-size="13.5" font-weight="700" fill="#141414" text-anchor="start">Claude Haiku, 웹 검색</text>
+<text x="16" y="193" font-size="13.5" font-weight="700" fill="#141414" text-anchor="start">한국어</text>
+<rect x="124" y="178" width="75.5" height="22" fill="#0A6797"/>
+<text x="205.50400000000002" y="193" font-size="13" font-weight="700" fill="#141414" text-anchor="start">42.9%</text>
+<text x="16" y="225" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">나머지 4개 평균</text>
+<rect x="124" y="210" width="69.7" height="22" fill="#B9B3A7"/>
+<text x="199.696" y="225" font-size="13" font-weight="500" fill="#141414" text-anchor="start">39.6%</text>
+<text x="16" y="244" font-size="12" font-weight="500" fill="#6E6A63" text-anchor="start">차이 3.2%p, 오차 범위 안이에요</text>
+<line x1="16" y1="268" x2="344" y2="268" stroke="#D6D1C7"/>
+<text x="16" y="292" font-size="14" font-weight="700" fill="#141414" text-anchor="start">웹 검색을 켜면 언어에 따른 차이가 거의 안 보였어요</text>
+<text x="16" y="316" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">다만 70곳이라 작은 차이는 못 잡아요</text>
+</svg>

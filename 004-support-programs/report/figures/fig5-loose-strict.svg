@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 304" role="img" aria-labelledby="f5-t f5-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f5-t">그림 5. 마감일은 맞았는데 전부 맞은 답은 더 적어요</title>
+<desc id="f5-d">200번 중 마감일을 맞게 말한 답은 78번, 그중 신청 가능 여부와 수행 기관까지 다 맞은 답은 46번</desc>
+<rect width="360" height="304" fill="#FBFAF7"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">물어본 공고 200건</text>
+<rect x="16.0" y="44" width="324.0" height="26" fill="#EDEAE3"/>
+<text x="16" y="106" font-size="14" font-weight="700" fill="#141414" text-anchor="start">마감일을 맞게 말한 답 78번</text>
+<rect x="16.0" y="120" width="126.4" height="26" fill="#0A6797"/>
+<text x="23" y="138" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">78번</text>
+<rect x="144.4" y="120" width="197.6" height="26" fill="#EDEAE3"/>
+<text x="16" y="182" font-size="14" font-weight="700" fill="#141414" text-anchor="start">신청 가능 여부와 수행 기관까지 다 맞은 답 46번</text>
+<rect x="16.0" y="196" width="74.5" height="26" fill="#0A6797"/>
+<text x="23" y="214" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">46번</text>
+<rect x="92.5" y="196" width="249.5" height="26" fill="#EDEAE3"/>
+<line x1="16" y1="244" x2="344" y2="244" stroke="#D6D1C7"/>
+<text x="16" y="268" font-size="15" font-weight="700" fill="#141414" text-anchor="start">200번 중 다 맞은 답은 46번이에요</text>
+<text x="16" y="288" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">마감일은 알아도 신청할 수 있는지는 자주 비워 뒀어요</text>
+</svg>

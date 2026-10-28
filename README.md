@@ -50,3 +50,29 @@ Define404 Research (2026). Local404: AI는 폐업한 동네 가게를 아직 영
 
 - 코드: MIT License
 - 자료와 원고: CC BY 4.0 (출처를 밝히면 자유롭게 쓸 수 있어요)
+
+## 003-local404-consistency
+
+리포트 3호 "같은 가게, 5개 언어 답의 일관성"(2026-10-28, 데이터 노트)의 자료예요. 2호 판정 결과 `001-local404/analysis/out_final/judgments.csv`를 입력으로 써요.
+
+- 사전등록: 연구 저장소 커밋 7169864(2026-10-28 23:39 ICT), 원문 `003-local404-consistency/prereg.md`
+- 원고: `003-local404-consistency/report/consistency_ko.md`
+- 분석 코드와 결과: `003-local404-consistency/analysis/` (`run_analysis.py`, `out/`)
+
+## 002-menu-translation
+
+리포트 4호 "AI에게 한식 메뉴의 외국어 이름을 물으면 정부 표준과 얼마나 같을까"(2026-10-29)의 자료예요.
+
+- 사전등록: 연구 저장소 커밋 9f84ace(2026-10-28 23:41 ICT), 원문 `002-menu-translation/prereg.md`
+- 원고: `002-menu-translation/report/menu_ko.md`
+- 표본 추출·질문·판정·분석 코드, 결과 파일, 메뉴별 판정(`judge/judged_public.csv`)
+- 공개하지 않은 것: 한식진흥원 표준 표기 원천 표와 표준 문자열(저작권은 한식진흥원), AI 답 원문. 원천 표는 `sampling/fetch_source.py`로 받을 수 있고 해시는 `sampling/SHA256SUMS`에 있어요.
+
+## 004-support-programs
+
+리포트 5호 "AI에게 지원사업 공고를 물으면 마감일을 맞게 알려 줄까요"(2026-10-29)의 자료예요.
+
+- 사전등록: 연구 저장소 커밋 35fac08(2026-10-28 23:41 ICT), 원문 `004-support-programs/prereg.md`
+- 원고: `004-support-programs/report/support_ko.md`
+- 판정 규칙 개정: 신청 가능 여부 판정을 수집 뒤 v1.1로 고쳤어요(`judge/rules.md` 7절). v1.0 결과는 `judge/judged_v10.csv`, `analysis/out_v10/`에 그대로 있어요.
+- 표본(기업마당 공개 공고 목록), 판정 결과, 분석 코드. AI 답 원문은 공개하지 않아요.
