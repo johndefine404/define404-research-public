@@ -9,7 +9,7 @@ Define404 Research 리포트의 분석 코드와 결과 자료예요. 리포트 
 리포트 2호 "Local404: AI는 폐업한 동네 가게를 아직 영업 중이라고 말하는가"(2026-10-24)의 자료예요.
 
 - 사전등록: OSF https://osf.io/5qnxu
-- 원고(한국어 기준본): `001-local404/report/local404_ko.md`
+- 원고(한국어 기준본): `001-local404/report/local404_ko.md`, 번역본 `local404_{en,ja,zh,vi}.md`
 - 사전등록 원문과 변경 공지: `001-local404/prereg.md`, `001-local404/DEVIATIONS.md`
 - 판정 규칙: `001-local404/judge/rules.md`
 - 분석 코드: `001-local404/analysis/` (`run_analysis.py`, `load_data.py`, `auto_judge.py`, `stats_lib.py`)
@@ -76,3 +76,7 @@ Define404 Research (2026). Local404: AI는 폐업한 동네 가게를 아직 영
 - 원고: `004-support-programs/report/support_ko.md`
 - 판정 규칙 개정: 신청 가능 여부 판정을 수집 뒤 v1.1로 고쳤어요(`judge/rules.md` 7절). v1.0 결과는 `judge/judged_v10.csv`, `analysis/out_v10/`에 그대로 있어요.
 - 표본(기업마당 공개 공고 목록), 판정 결과, 분석 코드. AI 답 원문은 공개하지 않아요.
+
+## 000-off-menu-questions
+
+리포트 1호 "가게 AI 상담에 메뉴에 없는 걸 물으면 어떻게 답할까요"(2026-10-19, 실험 노트)의 원고(5개 언어)와 질문·답 원자료(`001-booking-meo-test.csv`), 시험 스크립트(`001-run-test.py`)예요. 시험 대상은 Define404 자사 제품 미리보기라 이해관계를 원고 첫머리에 밝혔어요.
