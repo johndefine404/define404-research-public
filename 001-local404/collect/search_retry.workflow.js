@@ -3,7 +3,7 @@ export const meta = {
   description: 'Local404 검색 조건 재수집: 10문항 배치를 3개씩 돌리고 검색 한도에 닿으면 멈춤',
   phases: [{ title: 'Retry', detail: '검색 한도까지 재수집' }],
 }
-const DIR = (args && args.dir) || '/Users/johnkim/define404-hub/define404/define404-research/001-local404/collect'
+const DIR = (args && args.dir) || '/Users/johnkim/define404-hub/define404/labs/define404-research/001-local404/collect'
 const counts = args.counts
 const skip = new Set(args.skip || [])
 const pad = (n) => String(n).padStart(3, '0')

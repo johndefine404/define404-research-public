@@ -2,9 +2,9 @@
   "episode": "003-local404-consistency",
   "generated_at": "2026-10-28T16:40:18.473707+00:00",
   "inputs": {
-    "judgments_csv": "/Users/johnkim/define404-hub/define404/define404-research/001-local404/analysis/out_final/judgments.csv",
+    "judgments_csv": "/Users/johnkim/define404-hub/define404/labs/define404-research/001-local404/analysis/out_final/judgments.csv",
     "judgments_sha256": "37220e4ee92e815a968f91d1b4c80f4b3e84aa0d95e3415fc269bb3fab01bf26",
-    "stats_lib": "/Users/johnkim/define404-hub/define404/define404-research/001-local404/analysis/stats_lib.py",
+    "stats_lib": "/Users/johnkim/define404-hub/define404/labs/define404-research/001-local404/analysis/stats_lib.py",
     "stats_lib_sha256": "206d5e4191f0c436305866daa90ca328b92afde972cb908aefac0f0101ae94fb"
   },
   "min_cell_n": 40,
