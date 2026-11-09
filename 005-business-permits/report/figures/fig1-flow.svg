@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 483" role="img" aria-labelledby="f1-t f1-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f1-t">그림 1. 이렇게 조사했어요</title>
+<desc id="f1-d">시군구 민원 안내표 6곳에서 영업 시작 민원 200건을 뽑아 AI 비서에게 처리기간과 수수료를 묻고, 답을 안내표 값과 맞춰 본 순서</desc>
+<rect width="360" height="483" fill="#FBFAF7"/>
+<circle cx="28" cy="36" r="12" fill="#0A6797"/>
+<text x="28" y="41" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="52" y="42" font-size="16" font-weight="700" fill="#141414" text-anchor="start">시군구 민원 안내표 6곳을 모았어요</text>
+<text x="52" y="71" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">공공데이터포털에 처리기간과 수수료를 공개한 시군구</text>
+<text x="52" y="91" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">민원사무편람</text>
+<line x1="28" y1="52" x2="28" y2="113" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="131" r="12" fill="#0A6797"/>
+<text x="28" y="136" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="52" y="137" font-size="16" font-weight="700" fill="#141414" text-anchor="start">영업을 시작할 때 내는 민원을 골랐어요</text>
+<text x="52" y="166" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">신고·등록·허가 민원 중 무작위로 200건. 처리기간</text>
+<text x="52" y="186" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">짧은 민원 89건, 긴 민원 111건</text>
+<line x1="28" y1="147" x2="28" y2="208" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="226" r="12" fill="#0A6797"/>
+<text x="28" y="231" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="52" y="232" font-size="16" font-weight="700" fill="#141414" text-anchor="start">민원마다 똑같이 물었어요</text>
+<text x="52" y="261" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">"OO시에 이 민원을 내려고 해요. 처리기간은 며칠이고</text>
+<text x="52" y="281" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">수수료는 얼마인가요?"</text>
+<line x1="28" y1="242" x2="28" y2="303" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="321" r="12" fill="#0A6797"/>
+<text x="28" y="326" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="52" y="327" font-size="16" font-weight="700" fill="#141414" text-anchor="start">웹 검색을 쓰는 AI 비서가 답했어요</text>
+<text x="52" y="356" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">Claude Sonnet, 문항마다 검색</text>
+<line x1="28" y1="337" x2="28" y2="378" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="396" r="12" fill="#0A6797"/>
+<text x="28" y="401" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="52" y="402" font-size="16" font-weight="700" fill="#141414" text-anchor="start">민원 안내표와 맞춰 봤어요</text>
+<text x="52" y="431" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">답에 나온 날 수와 금액을 그 시군구 안내표 값과</text>
+<text x="52" y="451" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">비교했어요</text>
+</svg>

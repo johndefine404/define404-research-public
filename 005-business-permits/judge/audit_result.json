@@ -1,0 +1,9 @@
+{
+ "rule_version": "1.1",
+ "n_answers": 30,
+ "answers_with_extraction_error": 8,
+ "verdict_cells": 60,
+ "verdict_cells_changed": 7,
+ "dev_v10_answers_with_error": 10,
+ "dev_n": 30
+}

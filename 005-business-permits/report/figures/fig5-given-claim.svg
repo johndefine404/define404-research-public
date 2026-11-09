@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 318" role="img" aria-labelledby="f5-t f5-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f5-t">그림 5. 숫자를 말할 때는 대체로 맞았지만, 전부 "확인 못 했어요"가 붙었어요</title>
+<desc id="f5-d">처리기간을 숫자로 말한 답 81번 중 67번, 수수료를 숫자로 말한 답 84번 중 71번이 안내표와 같았어요</desc>
+<rect width="360" height="318" fill="#FBFAF7"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">처리기간을 숫자로 말한 답 81번</text>
+<rect x="16.0" y="44" width="258.4" height="30" fill="#0A6797"/>
+<text x="23" y="64" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">67번</text>
+<rect x="276.4" y="44" width="54.0" height="30" fill="#DA2D2D"/>
+<text x="283.42857142857144" y="64" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">14번</text>
+<rect x="16" y="84" width="11" height="11" rx="2" fill="#0A6797"/>
+<text x="32" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">안내표와 같음 67번</text>
+<rect x="140.56" y="84" width="11" height="11" rx="2" fill="#DA2D2D"/>
+<text x="156.56" y="94" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">다름 14번</text>
+<text x="16" y="128" font-size="14" font-weight="700" fill="#141414" text-anchor="start">수수료를 숫자로 말한 답 84번</text>
+<rect x="16.0" y="142" width="273.9" height="30" fill="#0A6797"/>
+<text x="23" y="162" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">71번</text>
+<rect x="291.9" y="142" width="50.1" height="30" fill="#DA2D2D"/>
+<text x="298.8571428571429" y="162" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">13번</text>
+<rect x="16" y="182" width="11" height="11" rx="2" fill="#0A6797"/>
+<text x="32" y="192" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">안내표와 같음 71번</text>
+<rect x="140.56" y="182" width="11" height="11" rx="2" fill="#DA2D2D"/>
+<text x="156.56" y="192" font-size="12" font-weight="500" fill="#4A4844" text-anchor="start">다름 13번</text>
+<line x1="16" y1="220" x2="344" y2="220" stroke="#D6D1C7"/>
+<text x="16" y="244" font-size="15" font-weight="700" fill="#141414" text-anchor="start">숫자를 말할 때는 대체로 맞았어요</text>
+<text x="16" y="268" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">그런데 답 전부에 "이 지역 값은 확인 못 했어요"가 붙어</text>
+<text x="16" y="287" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">있었어요. 다른 지역 안내나 법령 서식에서 빌려 온 숫자였어요</text>
+</svg>

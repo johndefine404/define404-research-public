@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 421" role="img" aria-labelledby="f4-t f4-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f4-t">그림 4. 처리기간과 수수료를 둘 다 정확히 맞힌 답은 열에 하나예요</title>
+<desc id="f4-d">200번 중 처리기간 맞음 67번, 둘 다 맞음 51번, 다른 숫자 없이 둘 다 정확히 맞음 18번</desc>
+<rect width="360" height="421" fill="#FBFAF7"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">물어본 민원 200건</text>
+<rect x="16" y="44" width="328" height="26" fill="#EDEAE3"/>
+<text x="16" y="106" font-size="14" font-weight="700" fill="#141414" text-anchor="start">처리기간이 맞은 답 67번</text>
+<rect x="16" y="120" width="328" height="26" fill="#EDEAE3"/>
+<rect x="16" y="120" width="108.5" height="26" fill="#0A6797"/>
+<text x="23" y="138" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">67번</text>
+<text x="16" y="182" font-size="14" font-weight="700" fill="#141414" text-anchor="start">처리기간과 수수료가 둘 다 맞은 답 51번</text>
+<rect x="16" y="196" width="328" height="26" fill="#EDEAE3"/>
+<rect x="16" y="196" width="82.6" height="26" fill="#0A6797"/>
+<text x="23" y="214" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start">51번</text>
+<text x="16" y="258" font-size="14" font-weight="700" fill="#141414" text-anchor="start">다른 숫자 섞지 않고 둘 다 정확히 맞은 답 18번</text>
+<rect x="16" y="272" width="328" height="26" fill="#EDEAE3"/>
+<rect x="16" y="272" width="29.2" height="26" fill="#0A6797"/>
+<line x1="16" y1="320" x2="344" y2="320" stroke="#D6D1C7"/>
+<text x="16" y="344" font-size="15" font-weight="700" fill="#141414" text-anchor="start">200번 물어서 사장님이 그대로 믿어도 되는 답은</text>
+<text x="16" y="366" font-size="15" font-weight="700" fill="#141414" text-anchor="start">18번이에요</text>
+<text x="16" y="390" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">나머지는 구청·시청 안내를 다시 봐야 해요</text>
+</svg>

@@ -1,0 +1,201 @@
+﻿qid,city,minwon_name,period_true,fee_true,period_group,fee_paid,handbook_asof,period_claims_v11,period_verdict_v11,fee_claims_v11,fee_verdict_v11,both_strict_v11,period_verdict_v10,fee_verdict_v10,both_strict_v10,said_not_confirmed
+B001,서울특별시 강서구,"국내결혼중개업 신고, 국제결혼중개업 등록신청",30일,30000원,long,paid,2025-09-16,30일,correct,20000원|30000원|5000원,correct,0,correct,correct,0,1
+B002,서울특별시 강서구,복합유통게임제공업 등록 신청,3일,20000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,wrong,0,1
+B003,경기도 시흥시,내수면 어업신고,1일,1000원,short,paid,2026-09-11,5일,wrong,,unknown,0,wrong,unknown,0,1
+B004,경기도 시흥시,산업단지 임대 신고,7일,무료,long,free,2026-09-11,7일,correct,,unknown,0,correct,unknown,0,1
+B005,경기도 시흥시,식육포장처리업 영업허가 신청서,8일,10000원,long,paid,2026-09-11,7일|8일,correct,10000원,correct,0,correct,correct,0,1
+B006,경기도 시흥시,측량업등록신청,10일,20000원,long,paid,2026-09-11,10일|14일,correct,,unknown,0,correct,unknown,0,1
+B007,대구광역시 북구,음반ㆍ음악영상물제작(배급)업 신고서,3일,20000원,short,paid,2026-09-03,3일,correct,,unknown,0,correct,unknown,0,1
+B008,경기도 시흥시,석유판매업(주유소) 등록신청서&조건부등록신청,7일,20000원,long,paid,2026-09-11,,unknown,20000원,correct,0,unknown,correct,0,1
+B009,서울특별시 강서구,주택관리업 등록 신청,20일,무료,long,free,2025-09-16,,unknown,,unknown,0,correct,correct,1,1
+B010,경상남도 창녕군,동물생산업 신고,15일,10000원,long,paid,2025-11-25,15일,correct,10000원|5000원,correct,0,correct,correct,0,1
+B011,경상북도 김천시,기타유원시설업 신고,3일,25000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B012,경기도 시흥시,"위생용품제조업 등 영업신고서(위생용품제조업, 위생물수건처리업)",3일,28000원,short,paid,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B013,대구광역시 북구,방문판매업 신고,3일,무료,short,free,2026-09-03,,unknown,,unknown,0,correct,wrong,0,1
+B014,서울특별시 강서구,공중위생업 영업신고,즉시,무료,short,free,2025-09-16,15일|30일|즉시,correct,무료,correct,0,correct,correct,0,1
+B015,강원특별자치도 강릉시,낚시어선업 신고,2일,2500원,short,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B016,강원특별자치도 강릉시,사업개시신고,14일,무료,long,free,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B017,서울특별시 강서구,도매업무관리자 폐지신고,5일,무료,long,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B018,경상남도 창녕군,통신판매업 신고,3일,무료,short,free,2025-11-25,,unknown,,unknown,0,unknown,unknown,0,1
+B019,강원특별자치도 강릉시,건설기계매매업 등록신청,10일,30000원,long,paid,2025-11-21,10일|7일,correct,30000원,correct,0,correct,correct,0,1
+B020,서울특별시 강서구,건설기계매매업등록신청,10일,30000원,long,paid,2025-09-16,10일|7일,correct,,unknown,0,correct,unknown,0,1
+B021,경기도 시흥시,청소년게임제공업ㆍ인터넷컴퓨터게임시설제공업 등록신청,3일,20000원,short,paid,2026-09-11,,unknown,30000원,wrong,0,unknown,wrong,0,1
+B022,경기도 시흥시,통신판매업 신고,3일,무료,short,free,2026-09-11,7일,wrong,무료,correct,0,unknown,correct,0,1
+B023,서울특별시 강서구,(담배)도매업 등록신청,5일,무료,long,free,2025-09-16,7일,wrong,,unknown,0,wrong,unknown,0,1
+B024,강원특별자치도 강릉시,기타테마파크업 허가,3일,30000원,short,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B025,경상북도 김천시,축산물판매업등의 영업신고,3일,10000원,short,paid,2025-09-03,3일,correct,10000원|5000원,correct,0,correct,correct,0,1
+B026,강원특별자치도 강릉시,소독업 신고,7일,무료,long,free,2025-11-21,7일,correct,무료,correct,1,correct,correct,1,1
+B027,서울특별시 강서구,영화업 신고,3일,20000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B028,경상북도 김천시,정보간행물·전자간행물·기타간행물사업 신고,25일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B029,서울특별시 강서구,방문전화권유판매업 신규 신고,3일,무료,short,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B030,강원특별자치도 강릉시,농어촌 민박사업자 신고,10일,무료,long,free,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B031,경상북도 김천시,방문판매업 신고,3일,무료,short,free,2025-09-03,,unknown,,unknown,0,correct,wrong,0,1
+B032,강원특별자치도 강릉시,자동차관리사업 등록신청,15일,20000원,long,paid,2025-11-21,,unknown,20000원,correct,0,unknown,correct,0,1
+B033,경기도 시흥시,산업단지 공장설립 완료신고,3일,무료,short,free,2026-09-11,3일|7일,correct,1000원,wrong,0,correct,wrong,0,1
+B034,강원특별자치도 강릉시,석유판매업(부생연료유판매소) 등록,7일,20000원,long,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B035,경기도 시흥시,노래연습장업 등록,3일,20000원,short,paid,2026-09-11,3일,correct,,unknown,0,correct,unknown,0,1
+B036,강원특별자치도 강릉시,동물판매업 영업 허가 신고,15일,10000원,long,paid,2025-11-21,15일,correct,10000원|5000원,correct,0,correct,correct,0,1
+B037,대구광역시 북구,비디오물배급업 신고서,5일,20000원,long,paid,2026-09-03,,unknown,10000원|20000원,correct,0,unknown,correct,0,1
+B038,경상남도 창녕군,식품 영업등록 신청,3일,28000원,short,paid,2025-11-25,,unknown,25200원|28000원,correct,0,unknown,correct,0,1
+B039,강원특별자치도 강릉시,"축산물(운반, 판매업, 식육즉석판매가공업)영업신고",3일,10000원,short,paid,2025-11-21,3일,correct,10000원,correct,1,correct,unknown,0,1
+B040,경상남도 창녕군,동물판매업 등록,15일,10000원,long,paid,2025-11-25,,unknown,,unknown,0,unknown,unknown,0,1
+B041,대구광역시 북구,가축사육업 등록 신청,7일,무료,long,free,2026-09-03,15일,wrong,무료,correct,0,wrong,correct,0,1
+B042,대구광역시 북구,공장등록신청서 및 사업계획서,7일,무료,long,free,2026-09-03,7일,correct,1000원,wrong,0,correct,wrong,0,1
+B043,경기도 시흥시,"방문판매업, 전화권유판매업 신고",3일,무료,short,free,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B044,경기도 시흥시,건설기계사업(정비업) 등록 신고,10일,30000원,long,paid,2026-09-11,,unknown,30000원|500원,correct,0,unknown,correct,0,1
+B045,경기도 시흥시,"식품영업신고서 (일반,휴게음식점, 즉석판매제조업,위탁급식영업,식품소분업, 판매업, 운반업, 냉동냉장업 등)",즉시,28000원,short,paid,2026-09-11,30일|즉시,correct,28000원,correct,0,correct,correct,0,1
+B046,경상북도 김천시,여객자동차운송사업 개시등의 신고,즉시,무료,short,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B047,경상남도 창녕군,양곡가공업(도정업용) 신고,14일,무료,long,free,2025-11-25,,unknown,,unknown,0,unknown,unknown,0,1
+B048,대구광역시 북구,여객자동차운송사업개시 등 신고,즉시,무료,short,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B049,경상북도 김천시,여객자동차운송사업 운송약관 신고,5일,1400원,long,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B050,경상남도 창녕군,노래연습장업 등록 신청,3일,20000원,short,paid,2025-11-25,3일,correct,,unknown,0,correct,unknown,0,1
+B051,강원특별자치도 강릉시,통신판매업 신고,3일,무료,short,free,2025-11-21,3일|4일|7일,correct,12000원|40500원|45000원|무료,correct,0,correct,correct,0,1
+B052,경기도 시흥시,지역사회서비스투자사업 제공기관 등록신청(신고) 관련 서식,30일,무료,long,free,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B053,강원특별자치도 강릉시,건설기계대여업 등록신청,10일,30000원,long,paid,2025-11-21,,unknown,30000원,correct,0,unknown,correct,0,1
+B054,경기도 시흥시,건설기계사업(대여업) 등록 신고,10일,30000원,long,paid,2026-09-11,,unknown,30000원,correct,0,unknown,correct,0,1
+B055,경기도 시흥시,동물판매업 등 영업 허가(등록),15일,10000원,long,paid,2026-09-11,15일,correct,10000원|5000원,correct,0,correct,correct,0,1
+B056,서울특별시 강서구,의약품 판촉영업자 신고,3일,10000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B057,강원특별자치도 강릉시,화물자동차 운송주선사업 허가,20일,16000원,long,paid,2025-11-21,20일,correct,,unknown,0,correct,unknown,0,1
+B058,강원특별자치도 강릉시,전기사업허가신청,60일,무료,long,free,2025-11-21,,unknown,,unknown,0,unknown,correct,0,1
+B059,경상남도 창녕군,물류창고업 등록,14일,10000원,long,paid,2025-11-25,,unknown,,unknown,0,correct,correct,1,1
+B060,경상북도 김천시,비디오물 제작(배급)업 신고,5일,20000원,long,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B061,대구광역시 북구,전화권유판매업 신고,3일,무료,short,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B062,경상북도 김천시,자동차관리사업 등록신청,15일,20000원,long,paid,2025-09-03,15일|21일,correct,20000원,correct,0,correct,correct,0,1
+B063,서울특별시 강서구,식품 영업허가 신청,3일,28000원,short,paid,2025-09-16,,unknown,25200원|28000원,correct,0,unknown,correct,0,1
+B064,강원특별자치도 강릉시,건설기계정비업 등록신청,18일,30000원,long,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B065,경상남도 창녕군,폐기물처리업 허가,10일,40000원,long,paid,2025-11-25,,unknown,,unknown,0,unknown,unknown,0,1
+B066,강원특별자치도 강릉시,임대사업자 등록,5일,무료,long,free,2025-11-21,5일,correct,무료,correct,1,correct,correct,1,1
+B067,서울특별시 강서구,화물자동차 운송사업허가신청,20일,14000원,long,paid,2025-09-16,20일|6일,correct,14000원,correct,0,correct,correct,0,1
+B068,서울특별시 강서구,"청소년게임제공업,인터넷컴퓨터게임시설제공업 등록 신청",3일,20000원,short,paid,2025-09-16,,unknown,30000원,wrong,0,unknown,wrong,0,1
+B069,강원특별자치도 강릉시,석유판매업(주유소) 등록 신청,7일,20000원,long,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B070,서울특별시 강서구,비디오물시청제공업 등록 신청,7일,20000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B071,강원특별자치도 강릉시,행정사 업무 신고,10일,무료,long,free,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B072,대구광역시 북구,영화업신고서,7일,20000원,long,paid,2026-09-03,,unknown,10000원|20000원,correct,0,unknown,correct,0,1
+B073,경상북도 김천시,온라인음악서비스제공업 신고,3일,20000원,short,paid,2025-09-03,3일,correct,,unknown,0,correct,unknown,0,1
+B074,경상북도 김천시,사업개시신고,3일,무료,short,free,2025-09-03,14일,wrong,,unknown,0,wrong,unknown,0,1
+B075,서울특별시 강서구,국내 무료직업소개사업 신규등록 신청,15일,무료,long,free,2025-09-16,15일,correct,30000원|무료,correct,0,correct,correct,1,1
+B076,경상북도 김천시,양곡가공업의 등록 및 신고,14일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B077,대구광역시 북구,통신판매업 신고,3일,무료,short,free,2026-09-03,7일,wrong,무료,correct,0,unknown,unknown,0,1
+B078,서울특별시 강서구,게임 배급업 신규 등록,3일,20000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,wrong,0,1
+B079,서울특별시 강서구,축산물가공업 영업허가 신고,10일,10000원,long,paid,2025-09-16,7일|8일,wrong,10000원,correct,0,wrong,unknown,0,1
+B080,경기도 시흥시,"대부업, 대부중개업 등록증 분실신고",3일,무료,short,free,2026-09-11,14일,wrong,100000원,wrong,0,wrong,wrong,0,1
+B081,경기도 시흥시,여객자동차운송사업개시 등 신고,즉시,무료,short,free,2026-09-11,,unknown,,unknown,0,unknown,wrong,0,1
+B082,경기도 시흥시,자동차관리사업 등록 신청,15일,20000원,long,paid,2026-09-11,15일|21일,correct,20000원,correct,0,correct,correct,0,1
+B083,경상북도 김천시,일반게임제공업 허가 신청,3일,20000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,wrong,0,1
+B084,경상북도 김천시,위생용품제조업 등 영업신고,3일,28000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B085,서울특별시 강서구,"정보간행물, 전자간행물, 기타간행물사업 신고",25일,무료,long,free,2025-09-16,,unknown,,unknown,0,wrong,unknown,0,1
+B086,경기도 시흥시,육묘업 등록신청서,7일,무료,long,free,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B087,강원특별자치도 강릉시,"일반·휴게음식점, 제과점영업 영업신고",즉시,28000원,short,paid,2025-11-21,30일|즉시,correct,28000원,correct,0,correct,correct,0,1
+B088,서울특별시 강서구,화물자동차 운송주선사업 허가사항신고,즉시,무료,short,free,2025-09-16,20일,wrong,,unknown,0,wrong,unknown,0,1
+B089,강원특별자치도 강릉시,수산물가공업 신고,7일,무료,long,free,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B090,경기도 시흥시,종묘생산업등록,7일,무료,long,free,2026-09-11,,unknown,,unknown,0,unknown,correct,0,1
+B091,경상북도 김천시,동물생산업 신고,15일,10000원,long,paid,2025-09-03,15일,correct,10000원,correct,1,correct,correct,1,1
+B092,대구광역시 북구,기타테마파크업 신고,3일,30000원,short,paid,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B093,서울특별시 강서구,잡지사업 등록 신청,25일,무료,long,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B094,서울특별시 강서구,개인택시운송사업 대리운전신고,5일,무료,long,free,2025-09-16,,unknown,무료,correct,0,unknown,correct,0,1
+B095,서울특별시 강서구,축산물 운반업 및 판매업 영업신고,3일,10000원,short,paid,2025-09-16,3일,correct,10000원,correct,1,correct,correct,1,1
+B096,경상북도 김천시,"양곡가공업(제분업용,제조업용) 신고",14일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B097,경상북도 김천시,유원시설업 허가(조건부 영업) 신청,3일,50000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B098,서울특별시 강서구,일반게임제공업 허가 신청,3일,20000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,wrong,0,1
+B099,서울특별시 강서구,석유판매업(일반판매소·항공유판매업·특수판매소) 신고,즉시,무료,short,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B100,서울특별시 강서구,대중문화예술기획업 등록 신청,15일,25000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B101,서울특별시 강서구,의료기기 판촉영업자 신고,3일,10000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B102,경상북도 김천시,공중위생영업 신고,즉시,무료,short,free,2025-09-03,30일|즉시,correct,무료,correct,0,correct,correct,0,1
+B103,서울특별시 강서구,임대사업자 등록신청,5일,무료,long,free,2025-09-16,5일,correct,,unknown,0,correct,correct,1,1
+B104,서울특별시 강서구,골재채취업 등록 신청,20일,30000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,wrong,0,1
+B105,서울특별시 강서구,석유판매업(주유소) 등록신청(조건부등록) 신청,7일,10000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B106,경상북도 김천시,식품 영업허가 신청,3일,28000원,short,paid,2025-09-03,3일,correct,25200원|28000원,correct,0,correct,correct,0,1
+B107,서울특별시 강서구,식품 영업등록 신청서-식품제조가공업,3일,28000원,short,paid,2025-09-16,3일,correct,28000원,correct,1,correct,unknown,0,1
+B108,서울특별시 강서구,복합유통게임제공업 신고,3일,20000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,wrong,0,1
+B109,경상북도 김천시,유원시설업 허가신청,3일,50000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B110,경상북도 김천시,게임제작(배급)업 등록 신청,3일,20000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,wrong,0,1
+B111,서울특별시 강서구,의료기기 수리업 신고,10일,50000원,long,paid,2025-09-16,10일|15일,correct,45000원|50000원,correct,0,correct,correct,0,1
+B112,강원특별자치도 강릉시,공중위생영업 신고,즉시,무료,short,free,2025-11-21,30일|즉시,correct,무료,correct,0,correct,correct,0,1
+B113,강원특별자치도 강릉시,"방문판매업, 전화권유판매업 신고",3일,무료,short,free,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B114,경상북도 김천시,동물미용업 등 영업등록 신청,15일,10000원,long,paid,2025-09-03,15일,correct,10000원,correct,1,correct,unknown,0,1
+B115,경기도 시흥시,양곡가공업 등록 및 신고,14일,무료,long,free,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B116,경상북도 김천시,문화재매매업 허가 신청,10일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B117,경상북도 김천시,식육포장처리업 등 영업허가,8일,10000원,long,paid,2025-09-03,7일|8일,correct,10000원,correct,0,correct,unknown,0,1
+B118,강원특별자치도 강릉시,가축사육업 등록신청,7일,무료,long,free,2025-11-21,15일,wrong,무료,correct,0,wrong,correct,0,1
+B119,서울특별시 강서구,의료기기판매(임대)업 신고,3일,10000원,short,paid,2025-09-16,3일,correct,10000원|9000원,correct,0,correct,correct,0,1
+B120,서울특별시 강서구,대부업·대부중개업 등록 신청 (2025.7.22. 대부업법 개정에 따른 자본금 요건 상향),14일,100000원,long,paid,2025-09-16,14일,correct,100000원,correct,1,correct,correct,1,1
+B121,경상북도 김천시,건설기계대여업 등록,10일,30000원,long,paid,2025-09-03,10일|7일,correct,30000원,correct,0,wrong,unknown,0,1
+B122,강원특별자치도 강릉시,어업허가 유예신청,2일,1500원,short,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B123,대구광역시 북구,비디오물제작업 신고서,5일,20000원,long,paid,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B124,경기도 시흥시,자율점검업소 지정 신청,30일,무료,long,free,2026-09-11,,unknown,무료,correct,0,unknown,correct,0,1
+B125,강원특별자치도 강릉시,국내결혼중개업 신고서 / 국제결혼중개업 등록신청서,30일,30000원,long,paid,2025-11-21,30일,correct,30000원,correct,1,correct,correct,1,1
+B126,경기도 시흥시,화물자동차 운송주선사업 허가신청,20일,16000원,long,paid,2026-09-11,20일,correct,,unknown,0,correct,unknown,0,1
+B127,경상남도 창녕군,동물장묘업의 영업 등록 신청서,15일,10000원,long,paid,2025-11-25,15일|7일,correct,10000원,correct,0,correct,correct,0,1
+B128,경기도 시흥시,석유판매업(용제판매소) 등록,7일,10000원,long,paid,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B129,경상남도 창녕군,농어촌민박사업 신고,10일,무료,long,free,2025-11-25,10일,correct,무료,correct,1,correct,correct,1,1
+B130,서울특별시 강서구,위생용품제조업 등 영업신고,3일,28000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B131,강원특별자치도 강릉시,유흥/단란주점 영업허가,3일,28000원,short,paid,2025-11-21,3일,correct,100000원|1500000원|2100000원|28000원|700000원,correct,0,correct,correct,0,1
+B132,경상북도 김천시,가축분뇨관련영업의 허가,7일,30000원,long,paid,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B133,서울특별시 강서구,석유판매업(용제판매소) 등록신청,7일,10000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B134,경상북도 김천시,"결혼중개업신고 및 등록(국내,국제)",30일,30000원,long,paid,2025-09-03,30일,correct,30000원,correct,1,correct,correct,1,1
+B135,경상남도 창녕군,안경업소 개설 등록 신청,3일,10000원,short,paid,2025-11-25,3일,correct,10000원,correct,1,correct,correct,1,1
+B136,서울특별시 강서구,게임 제작업 신규 등록,3일,20000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,wrong,0,1
+B137,경기도 시흥시,농약판매업 등록신청,4일,10000원,long,paid,2026-09-11,,unknown,,unknown,0,unknown,correct,0,1
+B138,서울특별시 강서구,건강기능식품 영업신고서(판매업),3일,28000원,short,paid,2025-09-16,3일,correct,25000원|28000원,correct,0,correct,unknown,0,1
+B139,서울특별시 강서구,통신판매업 신규 신고,3일,무료,short,free,2025-09-16,2일|3일,correct,무료,correct,0,correct,correct,0,1
+B140,경상남도 창녕군,행정사 업무 신고서,10일,무료,long,free,2025-11-25,,unknown,,unknown,0,unknown,unknown,0,1
+B141,서울특별시 강서구,"동물의료기기판매,임대업신고",3일,10000원,short,paid,2025-09-16,3일,correct,10000원|5000원|무료,correct,0,correct,correct,0,1
+B142,서울특별시 강서구,"고압가스사업,저장소사용(휴지,폐지)신고",즉시,무료,short,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B143,경상남도 창녕군,청소년게임제공업ㆍ인터넷컴퓨터게임시설제공업 등록 신청,3일,20000원,short,paid,2025-11-25,,unknown,30000원,wrong,0,unknown,wrong,0,1
+B144,경기도 시흥시,"낚시터업 허가, 등록 신청",5일,5000원,long,paid,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B145,서울특별시 강서구,온라인음악서비스제공업 신고,3일,20000원,short,paid,2025-09-16,3일,correct,,unknown,0,correct,unknown,0,1
+B146,경상북도 김천시,기계식 주차장 보수업 등록 신청,7일,무료,long,free,2025-09-03,,unknown,20000원|4000원,wrong,0,unknown,wrong,0,1
+B147,서울특별시 강서구,소독업 신고,7일,무료,long,free,2025-09-16,7일,correct,무료,correct,1,correct,unknown,0,1
+B148,경상북도 김천시,복합유통게임제공업 등록 신청,3일,20000원,short,paid,2025-09-03,,unknown,30000원,wrong,0,unknown,wrong,0,1
+B149,강원특별자치도 강릉시,테마파크업 허가,3일,30000원,short,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B150,경기도 시흥시,식품영업등록신청서,3일,28000원,short,paid,2026-09-11,30일|즉시,wrong,25200원|28000원,correct,0,wrong,correct,0,1
+B151,경상북도 김천시,전기사업허가신청서(1500kW이하),60일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B152,서울특별시 강서구,액화석유가스 충전사업등 허가신청,5일,무료,long,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B153,대구광역시 북구,종자업등록 신청,7일,무료,long,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B154,대구광역시 북구,"축산물운반업(축산물판매업,식육즉석판매가공업) 영업신고",3일,10000원,short,paid,2026-09-03,3일,correct,10000원,correct,1,correct,unknown,0,1
+B155,경상북도 김천시,청소년게임제공업 및 인터넷게임시설제공업(PC방) 등록 신청,3일,20000원,short,paid,2025-09-03,,unknown,30000원,wrong,0,unknown,wrong,0,1
+B156,대구광역시 북구,"(식육포장처리업, 축산물보관업) 영업허가 신청",8일,10000원,long,paid,2026-09-03,7일|8일,correct,10000원,correct,0,correct,correct,0,1
+B157,서울특별시 강서구,비디오물제작업 신고,5일,20000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,correct,0,1
+B158,경기도 시흥시,석유판매업(일반판매소&항공유판매업&특수판매소) 신고,7일,10000원,long,paid,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B159,경상북도 김천시,노래연습장업 등록 신청,3일,20000원,short,paid,2025-09-03,3일,correct,,unknown,0,correct,unknown,0,1
+B160,경상북도 김천시,전기사업(태양광발전) 사업개시신고,14일,무료,long,free,2025-09-03,14일,correct,,unknown,0,correct,unknown,0,1
+B161,경기도 시흥시,건설기계사업(매매업) 등록 신고,10일,30000원,long,paid,2026-09-11,,unknown,30000원,correct,0,unknown,correct,0,1
+B162,경상북도 김천시,식품접객업소 위생등급 지정신청,60일,무료,long,free,2025-09-03,60일,correct,무료,correct,1,correct,correct,1,1
+B163,경상남도 창녕군,식품 영업허가 신청,3일,28000원,short,paid,2025-11-25,3일,correct,25200원|28000원,correct,0,correct,correct,0,1
+B164,경상남도 창녕군,화물자동차운송사업 허가사항 신고,즉시,무료,short,free,2025-11-25,,unknown,2000원|5000원,wrong,0,unknown,wrong,0,1
+B165,대구광역시 북구,담배도매업 등록신청,6일,무료,long,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B166,서울특별시 강서구,국내 유료직업소개사업 신규등록 신청,15일,무료,long,free,2025-09-16,15일,correct,30000원,wrong,0,correct,unknown,0,1
+B167,경상북도 김천시,양곡가공업(도정업용) 신고,14일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B168,대구광역시 북구,석유판매업(주유소)등록 신청서,7일,무료,long,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B169,경상남도 창녕군,화물자동차운송주선사업 허가사항 신고,즉시,무료,short,free,2025-11-25,20일,wrong,,unknown,0,wrong,unknown,0,1
+B170,서울특별시 강서구,도매업무관리자 신고,7일,무료,long,free,2025-09-16,,unknown,,unknown,0,correct,correct,1,1
+B171,경기도 시흥시,목재생산업 등록 신청,20일,무료,long,free,2026-09-11,,unknown,,unknown,0,wrong,correct,0,1
+B172,서울특별시 강서구,행정사 업무 신고 신청,10일,무료,long,free,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B173,서울특별시 강서구,건축사업무신고,1일,무료,short,free,2025-09-16,30일,wrong,,unknown,0,wrong,unknown,0,1
+B174,경상북도 김천시,식품영업신고,즉시,28000원,short,paid,2025-09-03,3일,wrong,25200원|28000원,correct,0,wrong,correct,0,1
+B175,경상북도 김천시,복합유통게임제공업 신고,3일,20000원,short,paid,2025-09-03,,unknown,,unknown,0,unknown,wrong,0,1
+B176,강원특별자치도 강릉시,개인택시 운송사업 대리운전 신고,5일,무료,long,free,2025-11-21,,unknown,,unknown,0,unknown,wrong,0,1
+B177,서울특별시 강서구,"영업 허가 신청(동물장묘업, 동물판매업, 동물생산업, 동물수입업)",15일,10000원,long,paid,2025-09-16,15일,correct,10000원,correct,1,correct,correct,1,1
+B178,경상북도 김천시,식품 영업등록신청,3일,28000원,short,paid,2025-09-03,,unknown,25200원|28000원,correct,0,unknown,correct,0,1
+B179,경상북도 김천시,산후조리업 신고서,5일,무료,long,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B180,서울특별시 강서구,비디오물배급업 신고,5일,20000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B181,대구광역시 북구,주민세(사업소분) 신고·납부 & 건축물사용현황 신고서,즉시,무료,short,free,2026-09-03,,unknown,250원,wrong,0,unknown,wrong,0,1
+B182,서울특별시 강서구,가스용품제조사업허가신청,5일,30000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B183,경상북도 김천시,통신판매업신고,3일,무료,short,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B184,서울특별시 강서구,골재채취업 등록사항 신고,30일,10000원,long,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B185,강원특별자치도 강릉시,석유판매업(용제판매소) 등록,7일,10000원,long,paid,2025-11-21,,unknown,,unknown,0,unknown,unknown,0,1
+B186,강원특별자치도 강릉시,건설기계해체재활용업 등록신청,10일,30000원,long,paid,2025-11-21,,unknown,,unknown,0,unknown,correct,0,1
+B187,경기도 시흥시,승강기 유지관리업 등록신청서,14일,50000원,long,paid,2026-09-11,,unknown,,unknown,0,unknown,unknown,0,1
+B188,대구광역시 북구,주민세(종업원분) 신고·납부,즉시,무료,short,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B189,대구광역시 북구,직업소개사업 등록 신고,15일,무료,long,free,2026-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B190,서울특별시 강서구,기타유원시설업 신규 신고,3일,30000원,short,paid,2025-09-16,,unknown,,unknown,0,unknown,unknown,0,1
+B191,경기도 시흥시,축산물판매업 영업신고서,3일,10000원,short,paid,2026-09-11,3일,correct,10000원,correct,1,correct,correct,1,1
+B192,경상남도 창녕군,"가축사육업 등록(소, 돼지, 닭, 오리, 양, 사슴, 거위, 칠면조, 메추리, 타조,꿩, 기타)",7일,무료,long,free,2025-11-25,,unknown,,unknown,0,wrong,correct,0,1
+B193,대구광역시 북구,자동차관리사업등록신청,15일,20000원,long,paid,2026-09-03,15일|21일,correct,20000원,correct,0,correct,correct,0,1
+B194,경상남도 창녕군,자동차관리사업 등록 신청,15일,20000원,long,paid,2025-11-25,15일|21일,correct,20000원,correct,0,correct,correct,0,1
+B195,강원특별자치도 강릉시,즉석판매제조가공업 신고,즉시,28000원,short,paid,2025-11-21,즉시,correct,28000원,correct,1,correct,correct,1,1
+B196,경기도 시흥시,"식품접객업 영업허가 (단란주점, 유흥주점)",3일,28000원,short,paid,2026-09-11,3일,correct,1500000원|28000원,correct,0,correct,unknown,0,1
+B197,서울특별시 강서구,자동차관리사업등록신청,15일,20000원,long,paid,2025-09-16,15일|21일,correct,20000원,correct,0,correct,correct,0,1
+B198,경상북도 김천시,전화권유판매업 신고,3일,무료,short,free,2025-09-03,,unknown,,unknown,0,unknown,unknown,0,1
+B199,대구광역시 북구,"대부업, 대부중개업 등록증 분실신고",3일,무료,short,free,2026-09-03,,unknown,100000원,wrong,0,unknown,wrong,0,1
+B200,경상남도 창녕군,기타유원시설업 신고,3일,30000원,short,paid,2025-11-25,,unknown,,unknown,0,unknown,unknown,0,1
