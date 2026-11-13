@@ -80,3 +80,12 @@ Define404 Research (2026). Local404: AI는 폐업한 동네 가게를 아직 영
 ## 000-off-menu-questions
 
 리포트 1호 "가게 AI 상담에 메뉴에 없는 걸 물으면 어떻게 답할까요"(2026-10-19, 실험 노트)의 원고(5개 언어)와 질문·답 원자료(`001-booking-meo-test.csv`), 시험 스크립트(`001-run-test.py`)예요. 시험 대상은 Define404 자사 제품 미리보기라 이해관계를 원고 첫머리에 밝혔어요.
+
+## 007-tourist-closed-shops
+
+리포트 7호 "AI가 여행자에게 추천하는 식당, 정말 지금 영업 중일까요"(2026-11-16)의 자료예요.
+
+- 사전등록: 연구 저장소 커밋 6dc92ad(2026-11-14 02:13 ICT), 원문 `007-tourist-closed-shops/prereg.md`
+- 원고: `007-tourist-closed-shops/report/picks_ko.md`(기준본), 번역본 `picks_{en,ja,zh,vi}.md`, 그림 `report/figures/`
+- 판정 규칙 개정: 폐업 판정을 수집 뒤 v1.1로 고쳤어요(`judge/rules.md` 6절). v1.0 결과는 `judge/judged_v10.csv`, `analysis/out_v10/`에 그대로 있어요.
+- 표본(시군구 150곳), 질문 원문(`collect/items.csv`), 추천 식당별 판정, 분석 코드. AI 답 원문과 인허가 원자료 파일(약 700MB)은 올리지 않았어요. 원자료 해시는 `gate.md`와 원고 8절에 있어요.
