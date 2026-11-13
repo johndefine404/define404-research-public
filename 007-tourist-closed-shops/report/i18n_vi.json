@@ -1,0 +1,5 @@
+{
+  "title": "Nhà hàng mà AI giới thiệu cho khách du lịch có thật sự đang mở cửa không",
+  "summary": "Chúng tôi hỏi một trợ lý AI có tìm kiếm web bằng tiếng Hàn và tiếng Anh về nhà hàng ở 150 quận, huyện, thành phố trên cả nước. Trong các nhà hàng được giới thiệu tìm thấy trong hồ sơ của chính phủ, chỉ 1.3% đã đóng cửa, nhưng khi hỏi bằng tiếng Anh thì 30.4% nhà hàng được giới thiệu không tìm thấy trong hồ sơ.",
+  "description": "Báo cáo đo lường hỏi Claude Sonnet có tìm kiếm web bằng tiếng Hàn và tiếng Anh về 150 quận, huyện, thành phố, rồi đối chiếu 1,329 nhà hàng được giới thiệu với hồ sơ cấp phép quán ăn thông thường của chính quyền địa phương. Gồm tệp CSV chấm từng nhà hàng được giới thiệu và 5 hình."
+}

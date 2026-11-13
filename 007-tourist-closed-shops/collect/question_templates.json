@@ -1,0 +1,6 @@
+{
+ "version": "1.0 (2026-11-14)",
+ "note": "지역은 시군구 단위. 한국어는 시도 약칭 + 시군구 이름, 영어는 로마자 표기 + 한글 병기 + 시도 영문. 정답(영업상태)은 질문에 넣지 않는다. 조사 '로/으로'는 받침으로 고른다.",
+ "ko": "{place_ko}{ro} 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.",
+ "en": "I'm traveling to {place_en} in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+}

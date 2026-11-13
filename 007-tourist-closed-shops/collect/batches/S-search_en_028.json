@@ -1,0 +1,32 @@
+{
+ "batch": "S-search_en_028",
+ "system": "S-search",
+ "lang": "en",
+ "items": [
+  {
+   "qid": "A076_en",
+   "lang": "en",
+   "question": "I'm traveling to Uiryeong-gun, Gyeongsangnam-do (경남 의령군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+  },
+  {
+   "qid": "A094_en",
+   "lang": "en",
+   "question": "I'm traveling to Goheung-gun, Jeollanam-do (전남 고흥군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+  },
+  {
+   "qid": "A051_en",
+   "lang": "en",
+   "question": "I'm traveling to Daedeok-gu, Daejeon (대전 대덕구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+  },
+  {
+   "qid": "A111_en",
+   "lang": "en",
+   "question": "I'm traveling to Seocheon-gun, Chungcheongnam-do (충남 서천군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+  },
+  {
+   "qid": "A023_en",
+   "lang": "en",
+   "question": "I'm traveling to Gangbuk-gu, Seoul (서울 강북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+  }
+ ]
+}

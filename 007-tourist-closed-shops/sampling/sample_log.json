@@ -1,0 +1,12 @@
+{
+ "seed": 20261114,
+ "min_open": 100,
+ "eligible": 230,
+ "eligible_by_stratum": {
+  "도": 153,
+  "광역": 77
+ },
+ "all_sigungu": 247,
+ "sampled": 150,
+ "sample_sha256": "0dd3abcf902af48dbe6ad6100b07b9b6c9f3df6151bdb3ea3ae0baed0cbc4316"
+}

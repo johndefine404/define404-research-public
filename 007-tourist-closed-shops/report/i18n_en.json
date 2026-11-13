@@ -1,0 +1,5 @@
+{
+  "title": "Are the Restaurants AI Recommends to Travelers Really Open Right Now?",
+  "summary": "We asked a web-search AI, in Korean and in English, for restaurants in 150 municipalities across Korea. Among the recommended restaurants found in government records, only 1.3% had closed, but when asked in English, 30.4% of recommended restaurants could not be found in the records.",
+  "description": "A measurement report that asked Claude Sonnet with web search about 150 municipalities in Korean and English and matched 1,329 recommended restaurants against the local government licensing registry for general restaurants, with a per-restaurant judgment CSV and 5 figures."
+}

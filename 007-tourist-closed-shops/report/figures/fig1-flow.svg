@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 483" role="img" aria-labelledby="f1-t f1-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f1-t">그림 1. 이렇게 조사했어요</title>
+<desc id="f1-d">시군구 150곳을 뽑아 AI 비서에게 한국어와 영어로 식당 추천을 받고, 추천된 식당을 정부 영업 기록에서 찾아 영업 중인지 본 순서</desc>
+<rect width="360" height="483" fill="#FBFAF7"/>
+<circle cx="28" cy="36" r="12" fill="#0A6797"/>
+<text x="28" y="41" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="52" y="42" font-size="16" font-weight="700" fill="#141414" text-anchor="start">전국 시군구 150곳을 뽑았어요</text>
+<text x="52" y="71" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">식당이 100곳 넘는 시군구 230곳에서 광역시 75곳,</text>
+<text x="52" y="91" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">도 75곳을 무작위로</text>
+<line x1="28" y1="52" x2="28" y2="113" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="131" r="12" fill="#0A6797"/>
+<text x="28" y="136" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="52" y="137" font-size="16" font-weight="700" fill="#141414" text-anchor="start">여행자처럼 물었어요</text>
+<text x="52" y="166" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">"OO로 여행 가요. 가 볼 만한 식당 5곳 추천해</text>
+<text x="52" y="186" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">주세요". 한국어와 영어로 한 번씩</text>
+<line x1="28" y1="147" x2="28" y2="208" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="226" r="12" fill="#0A6797"/>
+<text x="28" y="231" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="52" y="232" font-size="16" font-weight="700" fill="#141414" text-anchor="start">웹 검색을 쓰는 AI 비서가 답했어요</text>
+<text x="52" y="261" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">Claude Sonnet. 추천 식당은 한국어 690곳, 영어</text>
+<text x="52" y="281" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">639곳</text>
+<line x1="28" y1="242" x2="28" y2="303" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="321" r="12" fill="#0A6797"/>
+<text x="28" y="326" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="52" y="327" font-size="16" font-weight="700" fill="#141414" text-anchor="start">정부 영업 기록에서 찾았어요</text>
+<text x="52" y="356" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">지방행정 인허가 일반음식점 기록에서 같은 시군구,</text>
+<text x="52" y="376" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">같은 상호를 찾았어요</text>
+<line x1="28" y1="337" x2="28" y2="398" stroke="#B9B3A7" stroke-width="1.5"/>
+<circle cx="28" cy="416" r="12" fill="#0A6797"/>
+<text x="28" y="421" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="52" y="422" font-size="16" font-weight="700" fill="#141414" text-anchor="start">영업 중인지 폐업했는지 봤어요</text>
+<text x="52" y="451" font-size="13.5" font-weight="500" fill="#4A4844" text-anchor="start">폐업은 주소까지 같은 기록이 있을 때만 셌어요</text>
+</svg>

@@ -1,0 +1,185 @@
+{
+ "recs_per_answer_ko": {
+  "answers": 150,
+  "recs": 690,
+  "mean": 4.6,
+  "full5": 112,
+  "dist": {
+   "1": 1,
+   "2": 2,
+   "3": 15,
+   "4": 20,
+   "5": 112
+  }
+ },
+ "address_given_ko": {
+  "k": 656,
+  "n": 690
+ },
+ "addr_outside_area_ko": {
+  "k": 14,
+  "n": 656
+ },
+ "recs_per_answer_en": {
+  "answers": 150,
+  "recs": 639,
+  "mean": 4.26,
+  "full5": 92,
+  "dist": {
+   "0": 1,
+   "1": 6,
+   "2": 6,
+   "3": 19,
+   "4": 26,
+   "5": 92
+  }
+ },
+ "address_given_en": {
+  "k": 530,
+  "n": 639
+ },
+ "addr_outside_area_en": {
+  "k": 85,
+  "n": 530
+ },
+ "new_districts": {
+  "인천광역시 제물포구|ko": {
+   "recs": 5,
+   "unverified": 0
+  },
+  "인천광역시 제물포구|en": {
+   "recs": 5,
+   "unverified": 0
+  },
+  "인천광역시 검단구|ko": {
+   "recs": 2,
+   "unverified": 0
+  },
+  "인천광역시 검단구|en": {
+   "recs": 5,
+   "unverified": 2
+  },
+  "인천광역시 서해구|ko": {
+   "recs": 2,
+   "unverified": 1
+  },
+  "인천광역시 서해구|en": {
+   "recs": 0,
+   "unverified": 0
+  },
+  "인천광역시 영종구|ko": {
+   "recs": 5,
+   "unverified": 0
+  },
+  "인천광역시 영종구|en": {
+   "recs": 4,
+   "unverified": 4
+  }
+ },
+ "top_domains_ko": [
+  [
+   "siksinhot.com",
+   124
+  ],
+  [
+   "polle.com",
+   117
+  ],
+  [
+   "mom-mom.net",
+   25
+  ],
+  [
+   "info.koreacharts.com",
+   20
+  ],
+  [
+   "hotplacehunter.co.kr",
+   18
+  ],
+  [
+   "ktriptips.com",
+   16
+  ],
+  [
+   "v.daum.net",
+   11
+  ],
+  [
+   "trvlogue.com",
+   7
+  ],
+  [
+   "gqkorea.co.kr",
+   7
+  ],
+  [
+   "esquirekorea.co.kr",
+   7
+  ]
+ ],
+ "top_domains_en": [
+  [
+   "siksinhot.com",
+   86
+  ],
+  [
+   "polle.com",
+   62
+  ],
+  [
+   "autoreserve.com",
+   32
+  ],
+  [
+   "ktriptips.com",
+   23
+  ],
+  [
+   "mom-mom.net",
+   18
+  ],
+  [
+   "info.koreacharts.com",
+   18
+  ],
+  [
+   "hotplacehunter.co.kr",
+   16
+  ],
+  [
+   "catchtable.net",
+   12
+  ],
+  [
+   "trvlogue.com",
+   11
+  ],
+  [
+   "elle.co.kr",
+   9
+  ]
+ ],
+ "closed_years_since": [
+  0.1,
+  0.3,
+  0.4,
+  0.8,
+  1.3,
+  2.8,
+  2.8,
+  5.2,
+  7.7,
+  9.6,
+  11.0,
+  11.0,
+  11.0
+ ],
+ "v10_to_v11": {
+  "영업->영업": 979,
+  "미확인->미확인": 303,
+  "폐업->폐업": 13,
+  "폐업->영업": 19,
+  "폐업->미확인": 15
+ }
+}

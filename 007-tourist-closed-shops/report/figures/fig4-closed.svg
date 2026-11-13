@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 265" role="img" aria-labelledby="f4-t f4-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f4-t">그림 4. 폐업한 식당 추천은 백 곳에 한 곳 정도예요</title>
+<desc id="f4-d">영업 기록을 찾은 추천 식당 중 폐업은 한국어 566곳 중 7곳, 영어 445곳 중 6곳</desc>
+<rect width="360" height="265" fill="#FBFAF7"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">한국어 질문: 영업 기록을 찾은 566곳 중</text>
+<text x="16" y="80" font-size="34" font-weight="700" fill="#DA2D2D" text-anchor="start">7</text>
+<text x="41.72" y="80" font-size="15" font-weight="600" fill="#141414" text-anchor="start">곳이 이미 폐업했어요</text>
+<text x="16" y="112" font-size="14" font-weight="700" fill="#141414" text-anchor="start">영어 질문: 영업 기록을 찾은 445곳 중</text>
+<text x="16" y="162" font-size="34" font-weight="700" fill="#DA2D2D" text-anchor="start">6</text>
+<text x="41.72" y="162" font-size="15" font-weight="600" fill="#141414" text-anchor="start">곳이 이미 폐업했어요</text>
+<line x1="16" y1="186" x2="344" y2="186" stroke="#D6D1C7"/>
+<text x="16" y="210" font-size="15" font-weight="700" fill="#141414" text-anchor="start">문 닫은 식당을 추천하는 일은 백 곳에 한 곳 정도예요</text>
+<text x="16" y="234" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">영어로 물어도 한국어와 거의 같았어요</text>
+</svg>

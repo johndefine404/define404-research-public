@@ -1,0 +1,301 @@
+qid,area_id,lang,batch,question
+A119_ko,A119,ko,S-search_ko_001,경북 영천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A026_ko,A026,ko,S-search_ko_001,부산 부산진구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A139_ko,A139,ko,S-search_ko_001,경기 연천군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A105_ko,A105,ko,S-search_ko_001,경남 진주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A011_ko,A011,ko,S-search_ko_001,대구 서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A087_ko,A087,ko,S-search_ko_002,강원 속초시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A003_ko,A003,ko,S-search_ko_002,인천 미추홀구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A134_ko,A134,ko,S-search_ko_002,강원 강릉시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A052_ko,A052,ko,S-search_ko_002,부산 해운대구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A048_ko,A048,ko,S-search_ko_002,서울 구로구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A036_ko,A036,ko,S-search_ko_003,서울 은평구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A077_ko,A077,ko,S-search_ko_003,전북 익산시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A031_ko,A031,ko,S-search_ko_003,대구 북구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A060_ko,A060,ko,S-search_ko_003,서울 영등포구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A053_ko,A053,ko,S-search_ko_003,부산 금정구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A009_ko,A009,ko,S-search_ko_004,부산 영도구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A072_ko,A072,ko,S-search_ko_004,부산 기장군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A141_ko,A141,ko,S-search_ko_004,전북 완주군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A138_ko,A138,ko,S-search_ko_004,경기 의정부시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A121_ko,A121,ko,S-search_ko_004,강원 화천군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A005_ko,A005,ko,S-search_ko_005,서울 종로구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A071_ko,A071,ko,S-search_ko_005,인천 계양구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A127_ko,A127,ko,S-search_ko_005,충남 금산군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A115_ko,A115,ko,S-search_ko_005,경남 창녕군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A004_ko,A004,ko,S-search_ko_005,대구 남구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A093_ko,A093,ko,S-search_ko_006,경북 문경시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A101_ko,A101,ko,S-search_ko_006,충북 증평군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A022_ko,A022,ko,S-search_ko_006,서울 강동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A006_ko,A006,ko,S-search_ko_006,서울 성동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A041_ko,A041,ko,S-search_ko_006,대구 수성구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A089_ko,A089,ko,S-search_ko_007,경기 성남시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A084_ko,A084,ko,S-search_ko_007,전남 순천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A001_ko,A001,ko,S-search_ko_007,서울 중랑구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A012_ko,A012,ko,S-search_ko_007,서울 성북구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A066_ko,A066,ko,S-search_ko_007,부산 동래구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A091_ko,A091,ko,S-search_ko_008,전남 영암군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A035_ko,A035,ko,S-search_ko_008,부산 연제구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A058_ko,A058,ko,S-search_ko_008,부산 서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A033_ko,A033,ko,S-search_ko_008,대구 동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A104_ko,A104,ko,S-search_ko_008,전남 무안군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A067_ko,A067,ko,S-search_ko_009,세종으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A028_ko,A028,ko,S-search_ko_009,인천 제물포구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A107_ko,A107,ko,S-search_ko_009,경기 동두천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A021_ko,A021,ko,S-search_ko_009,서울 양천구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A147_ko,A147,ko,S-search_ko_009,경북 청송군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A074_ko,A074,ko,S-search_ko_010,인천 강화군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A045_ko,A045,ko,S-search_ko_010,대전 유성구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A002_ko,A002,ko,S-search_ko_010,서울 서대문구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A075_ko,A075,ko,S-search_ko_010,인천 옹진군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A013_ko,A013,ko,S-search_ko_010,대구 군위군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A044_ko,A044,ko,S-search_ko_011,인천 연수구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A056_ko,A056,ko,S-search_ko_011,서울 서초구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A030_ko,A030,ko,S-search_ko_011,광주 광산구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A032_ko,A032,ko,S-search_ko_011,인천 검단구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A092_ko,A092,ko,S-search_ko_011,강원 춘천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A146_ko,A146,ko,S-search_ko_012,강원 철원군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A014_ko,A014,ko,S-search_ko_012,대구 달서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A150_ko,A150,ko,S-search_ko_012,전남 곡성군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A085_ko,A085,ko,S-search_ko_012,경북 고령군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A144_ko,A144,ko,S-search_ko_012,경기 김포시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A086_ko,A086,ko,S-search_ko_013,경기 이천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A050_ko,A050,ko,S-search_ko_013,울산 중구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A080_ko,A080,ko,S-search_ko_013,경기 구리시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A140_ko,A140,ko,S-search_ko_013,경북 영덕군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A125_ko,A125,ko,S-search_ko_013,충남 부여군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A069_ko,A069,ko,S-search_ko_014,울산 남구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A042_ko,A042,ko,S-search_ko_014,부산 동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A076_ko,A076,ko,S-search_ko_014,경남 의령군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A064_ko,A064,ko,S-search_ko_014,서울 중구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A063_ko,A063,ko,S-search_ko_014,광주 동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A027_ko,A027,ko,S-search_ko_015,서울 마포구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A099_ko,A099,ko,S-search_ko_015,충북 보은군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A120_ko,A120,ko,S-search_ko_015,전남 장성군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A078_ko,A078,ko,S-search_ko_015,전남 장흥군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A096_ko,A096,ko,S-search_ko_015,경북 경산시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A110_ko,A110,ko,S-search_ko_016,강원 동해시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A123_ko,A123,ko,S-search_ko_016,경남 거제시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A114_ko,A114,ko,S-search_ko_016,충남 논산시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A097_ko,A097,ko,S-search_ko_016,충남 공주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A065_ko,A065,ko,S-search_ko_016,인천 영종구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A122_ko,A122,ko,S-search_ko_017,경남 하동군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A129_ko,A129,ko,S-search_ko_017,경북 영주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A090_ko,A090,ko,S-search_ko_017,경기 과천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A008_ko,A008,ko,S-search_ko_017,울산 동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A135_ko,A135,ko,S-search_ko_017,경북 성주군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A103_ko,A103,ko,S-search_ko_018,경북 봉화군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A126_ko,A126,ko,S-search_ko_018,경북 구미시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A145_ko,A145,ko,S-search_ko_018,전남 진도군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A049_ko,A049,ko,S-search_ko_018,서울 강서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A020_ko,A020,ko,S-search_ko_018,울산 북구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A136_ko,A136,ko,S-search_ko_019,충북 청주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A037_ko,A037,ko,S-search_ko_019,광주 남구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A133_ko,A133,ko,S-search_ko_019,경기 평택시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A018_ko,A018,ko,S-search_ko_019,인천 부평구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A088_ko,A088,ko,S-search_ko_019,전남 담양군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A043_ko,A043,ko,S-search_ko_020,인천 서해구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A137_ko,A137,ko,S-search_ko_020,전남 구례군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A112_ko,A112,ko,S-search_ko_020,경북 안동시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A068_ko,A068,ko,S-search_ko_020,광주 북구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A047_ko,A047,ko,S-search_ko_020,대전 중구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A015_ko,A015,ko,S-search_ko_021,서울 광진구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A116_ko,A116,ko,S-search_ko_021,경기 용인시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A029_ko,A029,ko,S-search_ko_021,서울 노원구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A010_ko,A010,ko,S-search_ko_021,서울 동대문구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A079_ko,A079,ko,S-search_ko_021,강원 양양군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A019_ko,A019,ko,S-search_ko_022,서울 금천구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A081_ko,A081,ko,S-search_ko_022,경기 부천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A131_ko,A131,ko,S-search_ko_022,전북 전주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A054_ko,A054,ko,S-search_ko_022,부산 강서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A083_ko,A083,ko,S-search_ko_022,충남 아산시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A059_ko,A059,ko,S-search_ko_023,서울 관악구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A023_ko,A023,ko,S-search_ko_023,서울 강북구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A106_ko,A106,ko,S-search_ko_023,경기 안성시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A046_ko,A046,ko,S-search_ko_023,부산 사하구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A073_ko,A073,ko,S-search_ko_023,인천 남동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A024_ko,A024,ko,S-search_ko_024,부산 북구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A082_ko,A082,ko,S-search_ko_024,경북 칠곡군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A016_ko,A016,ko,S-search_ko_024,울산 울주군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A094_ko,A094,ko,S-search_ko_024,전남 고흥군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A100_ko,A100,ko,S-search_ko_024,경남 남해군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A038_ko,A038,ko,S-search_ko_025,부산 사상구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A132_ko,A132,ko,S-search_ko_025,경기 양평군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A051_ko,A051,ko,S-search_ko_025,대전 대덕구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A025_ko,A025,ko,S-search_ko_025,대전 동구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A118_ko,A118,ko,S-search_ko_025,전북 장수군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A148_ko,A148,ko,S-search_ko_026,경남 창원시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A109_ko,A109,ko,S-search_ko_026,전남 신안군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A095_ko,A095,ko,S-search_ko_026,강원 원주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A055_ko,A055,ko,S-search_ko_026,부산 남구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A039_ko,A039,ko,S-search_ko_026,서울 송파구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A117_ko,A117,ko,S-search_ko_027,전북 남원시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A149_ko,A149,ko,S-search_ko_027,충북 음성군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A057_ko,A057,ko,S-search_ko_027,부산 수영구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A070_ko,A070,ko,S-search_ko_027,대구 달성군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A102_ko,A102,ko,S-search_ko_027,충남 태안군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A098_ko,A098,ko,S-search_ko_028,전남 목포시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A108_ko,A108,ko,S-search_ko_028,경남 밀양시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A143_ko,A143,ko,S-search_ko_028,경북 청도군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A040_ko,A040,ko,S-search_ko_028,대전 서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A111_ko,A111,ko,S-search_ko_028,충남 서천군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A061_ko,A061,ko,S-search_ko_029,서울 동작구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A113_ko,A113,ko,S-search_ko_029,경북 상주시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A007_ko,A007,ko,S-search_ko_029,부산 중구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A128_ko,A128,ko,S-search_ko_029,강원 정선군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A034_ko,A034,ko,S-search_ko_029,서울 용산구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A130_ko,A130,ko,S-search_ko_030,강원 횡성군으로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A124_ko,A124,ko,S-search_ko_030,경기 군포시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A142_ko,A142,ko,S-search_ko_030,경북 김천시로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A062_ko,A062,ko,S-search_ko_030,서울 도봉구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A017_ko,A017,ko,S-search_ko_030,광주 서구로 여행 가요. 가 볼 만한 식당 5곳을 추천해 주세요. 가게마다 상호와 주소를 같이 적어 주세요.
+A149_en,A149,en,S-search_en_001,"I'm traveling to Eumseong-gun, Chungcheongbuk-do (충북 음성군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A029_en,A029,en,S-search_en_001,"I'm traveling to Nowon-gu, Seoul (서울 노원구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A072_en,A072,en,S-search_en_001,"I'm traveling to Gijang-gun, Busan (부산 기장군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A032_en,A032,en,S-search_en_001,"I'm traveling to Geomdan-gu, Incheon (인천 검단구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A038_en,A038,en,S-search_en_001,"I'm traveling to Sasang-gu, Busan (부산 사상구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A092_en,A092,en,S-search_en_002,"I'm traveling to Chuncheon-si, Gangwon (강원 춘천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A137_en,A137,en,S-search_en_002,"I'm traveling to Gurye-gun, Jeollanam-do (전남 구례군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A084_en,A084,en,S-search_en_002,"I'm traveling to Suncheon-si, Jeollanam-do (전남 순천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A128_en,A128,en,S-search_en_002,"I'm traveling to Jeongseon-gun, Gangwon (강원 정선군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A019_en,A019,en,S-search_en_002,"I'm traveling to Geumcheon-gu, Seoul (서울 금천구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A034_en,A034,en,S-search_en_003,"I'm traveling to Yongsan-gu, Seoul (서울 용산구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A045_en,A045,en,S-search_en_003,"I'm traveling to Yuseong-gu, Daejeon (대전 유성구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A105_en,A105,en,S-search_en_003,"I'm traveling to Jinju-si, Gyeongsangnam-do (경남 진주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A115_en,A115,en,S-search_en_003,"I'm traveling to Changnyeong-gun, Gyeongsangnam-do (경남 창녕군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A050_en,A050,en,S-search_en_003,"I'm traveling to Jung-gu, Ulsan (울산 중구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A104_en,A104,en,S-search_en_004,"I'm traveling to Muan-gun, Jeollanam-do (전남 무안군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A009_en,A009,en,S-search_en_004,"I'm traveling to Yeongdo-gu, Busan (부산 영도구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A066_en,A066,en,S-search_en_004,"I'm traveling to Dongrae-gu, Busan (부산 동래구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A088_en,A088,en,S-search_en_004,"I'm traveling to Damyang-gun, Jeollanam-do (전남 담양군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A028_en,A028,en,S-search_en_004,"I'm traveling to Jemulpo-gu, Incheon (인천 제물포구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A044_en,A044,en,S-search_en_005,"I'm traveling to Yeonsu-gu, Incheon (인천 연수구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A016_en,A016,en,S-search_en_005,"I'm traveling to Ulju-gun, Ulsan (울산 울주군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A099_en,A099,en,S-search_en_005,"I'm traveling to Boeun-gun, Chungcheongbuk-do (충북 보은군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A090_en,A090,en,S-search_en_005,"I'm traveling to Gwacheon-si, Gyeonggi-do (경기 과천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A064_en,A064,en,S-search_en_005,"I'm traveling to Jung-gu, Seoul (서울 중구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A148_en,A148,en,S-search_en_006,"I'm traveling to Changwon-si, Gyeongsangnam-do (경남 창원시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A134_en,A134,en,S-search_en_006,"I'm traveling to Gangreung-si, Gangwon (강원 강릉시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A133_en,A133,en,S-search_en_006,"I'm traveling to Pyeongtaek-si, Gyeonggi-do (경기 평택시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A113_en,A113,en,S-search_en_006,"I'm traveling to Sangju-si, Gyeongsangbuk-do (경북 상주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A026_en,A026,en,S-search_en_006,"I'm traveling to Busanjin-gu, Busan (부산 부산진구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A136_en,A136,en,S-search_en_007,"I'm traveling to Cheongju-si, Chungcheongbuk-do (충북 청주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A130_en,A130,en,S-search_en_007,"I'm traveling to Hoengseong-gun, Gangwon (강원 횡성군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A043_en,A043,en,S-search_en_007,"I'm traveling to Seohae-gu, Incheon (인천 서해구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A071_en,A071,en,S-search_en_007,"I'm traveling to Gyeyang-gu, Incheon (인천 계양구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A114_en,A114,en,S-search_en_007,"I'm traveling to Nonsan-si, Chungcheongnam-do (충남 논산시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A047_en,A047,en,S-search_en_008,"I'm traveling to Jung-gu, Daejeon (대전 중구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A083_en,A083,en,S-search_en_008,"I'm traveling to Asan-si, Chungcheongnam-do (충남 아산시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A091_en,A091,en,S-search_en_008,"I'm traveling to Yeongam-gun, Jeollanam-do (전남 영암군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A095_en,A095,en,S-search_en_008,"I'm traveling to Wonju-si, Gangwon (강원 원주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A061_en,A061,en,S-search_en_008,"I'm traveling to Dongjak-gu, Seoul (서울 동작구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A025_en,A025,en,S-search_en_009,"I'm traveling to Dong-gu, Daejeon (대전 동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A147_en,A147,en,S-search_en_009,"I'm traveling to Cheongsong-gun, Gyeongsangbuk-do (경북 청송군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A017_en,A017,en,S-search_en_009,"I'm traveling to Seo-gu, Gwangju (광주 서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A046_en,A046,en,S-search_en_009,"I'm traveling to Saha-gu, Busan (부산 사하구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A041_en,A041,en,S-search_en_009,"I'm traveling to Suseong-gu, Daegu (대구 수성구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A018_en,A018,en,S-search_en_010,"I'm traveling to Bupyeong-gu, Incheon (인천 부평구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A143_en,A143,en,S-search_en_010,"I'm traveling to Cheongdo-gun, Gyeongsangbuk-do (경북 청도군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A020_en,A020,en,S-search_en_010,"I'm traveling to Buk-gu, Ulsan (울산 북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A106_en,A106,en,S-search_en_010,"I'm traveling to Anseong-si, Gyeonggi-do (경기 안성시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A073_en,A073,en,S-search_en_010,"I'm traveling to Namdong-gu, Incheon (인천 남동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A008_en,A008,en,S-search_en_011,"I'm traveling to Dong-gu, Ulsan (울산 동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A120_en,A120,en,S-search_en_011,"I'm traveling to Jangseong-gun, Jeollanam-do (전남 장성군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A127_en,A127,en,S-search_en_011,"I'm traveling to Geumsan-gun, Chungcheongnam-do (충남 금산군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A063_en,A063,en,S-search_en_011,"I'm traveling to Dong-gu, Gwangju (광주 동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A103_en,A103,en,S-search_en_011,"I'm traveling to Bonghwa-gun, Gyeongsangbuk-do (경북 봉화군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A132_en,A132,en,S-search_en_012,"I'm traveling to Yangpyeong-gun, Gyeonggi-do (경기 양평군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A123_en,A123,en,S-search_en_012,"I'm traveling to Geoje-si, Gyeongsangnam-do (경남 거제시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A013_en,A013,en,S-search_en_012,"I'm traveling to Gunwi-gun, Daegu (대구 군위군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A122_en,A122,en,S-search_en_012,"I'm traveling to Hadong-gun, Gyeongsangnam-do (경남 하동군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A040_en,A040,en,S-search_en_012,"I'm traveling to Seo-gu, Daejeon (대전 서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A102_en,A102,en,S-search_en_013,"I'm traveling to Taean-gun, Chungcheongnam-do (충남 태안군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A030_en,A030,en,S-search_en_013,"I'm traveling to Gwangsan-gu, Gwangju (광주 광산구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A118_en,A118,en,S-search_en_013,"I'm traveling to Jangsu-gun, Jeonbuk (전북 장수군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A058_en,A058,en,S-search_en_013,"I'm traveling to Seo-gu, Busan (부산 서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A010_en,A010,en,S-search_en_013,"I'm traveling to Dongdaemun-gu, Seoul (서울 동대문구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A006_en,A006,en,S-search_en_014,"I'm traveling to Seongdong-gu, Seoul (서울 성동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A001_en,A001,en,S-search_en_014,"I'm traveling to Jungrang-gu, Seoul (서울 중랑구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A142_en,A142,en,S-search_en_014,"I'm traveling to Gimcheon-si, Gyeongsangbuk-do (경북 김천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A057_en,A057,en,S-search_en_014,"I'm traveling to Suyeong-gu, Busan (부산 수영구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A085_en,A085,en,S-search_en_014,"I'm traveling to Goryeong-gun, Gyeongsangbuk-do (경북 고령군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A110_en,A110,en,S-search_en_015,"I'm traveling to Donghae-si, Gangwon (강원 동해시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A145_en,A145,en,S-search_en_015,"I'm traveling to Jindo-gun, Jeollanam-do (전남 진도군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A014_en,A014,en,S-search_en_015,"I'm traveling to Dalseo-gu, Daegu (대구 달서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A054_en,A054,en,S-search_en_015,"I'm traveling to Gangseo-gu, Busan (부산 강서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A055_en,A055,en,S-search_en_015,"I'm traveling to Nam-gu, Busan (부산 남구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A059_en,A059,en,S-search_en_016,"I'm traveling to Gwanak-gu, Seoul (서울 관악구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A100_en,A100,en,S-search_en_016,"I'm traveling to Namhae-gun, Gyeongsangnam-do (경남 남해군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A089_en,A089,en,S-search_en_016,"I'm traveling to Seongnam-si, Gyeonggi-do (경기 성남시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A087_en,A087,en,S-search_en_016,"I'm traveling to Sokcho-si, Gangwon (강원 속초시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A060_en,A060,en,S-search_en_016,"I'm traveling to Yeongdeungpo-gu, Seoul (서울 영등포구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A065_en,A065,en,S-search_en_017,"I'm traveling to Yeongjong-gu, Incheon (인천 영종구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A067_en,A067,en,S-search_en_017,"I'm traveling to Sejong in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A062_en,A062,en,S-search_en_017,"I'm traveling to Dobong-gu, Seoul (서울 도봉구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A119_en,A119,en,S-search_en_017,"I'm traveling to Yeongcheon-si, Gyeongsangbuk-do (경북 영천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A021_en,A021,en,S-search_en_017,"I'm traveling to Yangcheon-gu, Seoul (서울 양천구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A135_en,A135,en,S-search_en_018,"I'm traveling to Seongju-gun, Gyeongsangbuk-do (경북 성주군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A138_en,A138,en,S-search_en_018,"I'm traveling to Uijeongbu-si, Gyeonggi-do (경기 의정부시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A080_en,A080,en,S-search_en_018,"I'm traveling to Guri-si, Gyeonggi-do (경기 구리시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A112_en,A112,en,S-search_en_018,"I'm traveling to Andong-si, Gyeongsangbuk-do (경북 안동시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A081_en,A081,en,S-search_en_018,"I'm traveling to Bucheon-si, Gyeonggi-do (경기 부천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A144_en,A144,en,S-search_en_019,"I'm traveling to Gimpo-si, Gyeonggi-do (경기 김포시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A107_en,A107,en,S-search_en_019,"I'm traveling to Dongducheon-si, Gyeonggi-do (경기 동두천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A109_en,A109,en,S-search_en_019,"I'm traveling to Sinan-gun, Jeollanam-do (전남 신안군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A036_en,A036,en,S-search_en_019,"I'm traveling to Eunpyeong-gu, Seoul (서울 은평구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A053_en,A053,en,S-search_en_019,"I'm traveling to Geumjeong-gu, Busan (부산 금정구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A117_en,A117,en,S-search_en_020,"I'm traveling to Namwon-si, Jeonbuk (전북 남원시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A048_en,A048,en,S-search_en_020,"I'm traveling to Guro-gu, Seoul (서울 구로구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A007_en,A007,en,S-search_en_020,"I'm traveling to Jung-gu, Busan (부산 중구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A129_en,A129,en,S-search_en_020,"I'm traveling to Yeongju-si, Gyeongsangbuk-do (경북 영주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A022_en,A022,en,S-search_en_020,"I'm traveling to Gangdong-gu, Seoul (서울 강동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A097_en,A097,en,S-search_en_021,"I'm traveling to Gongju-si, Chungcheongnam-do (충남 공주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A108_en,A108,en,S-search_en_021,"I'm traveling to Milyang-si, Gyeongsangnam-do (경남 밀양시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A086_en,A086,en,S-search_en_021,"I'm traveling to Icheon-si, Gyeonggi-do (경기 이천시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A068_en,A068,en,S-search_en_021,"I'm traveling to Buk-gu, Gwangju (광주 북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A056_en,A056,en,S-search_en_021,"I'm traveling to Seocho-gu, Seoul (서울 서초구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A035_en,A035,en,S-search_en_022,"I'm traveling to Yeonje-gu, Busan (부산 연제구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A139_en,A139,en,S-search_en_022,"I'm traveling to Yeoncheon-gun, Gyeonggi-do (경기 연천군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A005_en,A005,en,S-search_en_022,"I'm traveling to Jongro-gu, Seoul (서울 종로구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A039_en,A039,en,S-search_en_022,"I'm traveling to Songpa-gu, Seoul (서울 송파구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A146_en,A146,en,S-search_en_022,"I'm traveling to Cheolwon-gun, Gangwon (강원 철원군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A121_en,A121,en,S-search_en_023,"I'm traveling to Hwacheon-gun, Gangwon (강원 화천군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A074_en,A074,en,S-search_en_023,"I'm traveling to Ganghwa-gun, Incheon (인천 강화군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A003_en,A003,en,S-search_en_023,"I'm traveling to Michuhol-gu, Incheon (인천 미추홀구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A082_en,A082,en,S-search_en_023,"I'm traveling to Chilgok-gun, Gyeongsangbuk-do (경북 칠곡군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A004_en,A004,en,S-search_en_023,"I'm traveling to Nam-gu, Daegu (대구 남구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A052_en,A052,en,S-search_en_024,"I'm traveling to Haeundae-gu, Busan (부산 해운대구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A101_en,A101,en,S-search_en_024,"I'm traveling to Jeungpyeong-gun, Chungcheongbuk-do (충북 증평군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A150_en,A150,en,S-search_en_024,"I'm traveling to Gokseong-gun, Jeollanam-do (전남 곡성군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A093_en,A093,en,S-search_en_024,"I'm traveling to Mungyeong-si, Gyeongsangbuk-do (경북 문경시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A031_en,A031,en,S-search_en_024,"I'm traveling to Buk-gu, Daegu (대구 북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A033_en,A033,en,S-search_en_025,"I'm traveling to Dong-gu, Daegu (대구 동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A077_en,A077,en,S-search_en_025,"I'm traveling to Iksan-si, Jeonbuk (전북 익산시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A024_en,A024,en,S-search_en_025,"I'm traveling to Buk-gu, Busan (부산 북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A049_en,A049,en,S-search_en_025,"I'm traveling to Gangseo-gu, Seoul (서울 강서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A126_en,A126,en,S-search_en_025,"I'm traveling to Gumi-si, Gyeongsangbuk-do (경북 구미시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A140_en,A140,en,S-search_en_026,"I'm traveling to Yeongdeok-gun, Gyeongsangbuk-do (경북 영덕군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A098_en,A098,en,S-search_en_026,"I'm traveling to Mokpo-si, Jeollanam-do (전남 목포시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A042_en,A042,en,S-search_en_026,"I'm traveling to Dong-gu, Busan (부산 동구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A141_en,A141,en,S-search_en_026,"I'm traveling to Wanju-gun, Jeonbuk (전북 완주군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A070_en,A070,en,S-search_en_026,"I'm traveling to Dalseong-gun, Daegu (대구 달성군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A131_en,A131,en,S-search_en_027,"I'm traveling to Jeonju-si, Jeonbuk (전북 전주시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A002_en,A002,en,S-search_en_027,"I'm traveling to Seodaemun-gu, Seoul (서울 서대문구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A078_en,A078,en,S-search_en_027,"I'm traveling to Jangheung-gun, Jeollanam-do (전남 장흥군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A012_en,A012,en,S-search_en_027,"I'm traveling to Seongbuk-gu, Seoul (서울 성북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A096_en,A096,en,S-search_en_027,"I'm traveling to Gyeongsan-si, Gyeongsangbuk-do (경북 경산시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A076_en,A076,en,S-search_en_028,"I'm traveling to Uiryeong-gun, Gyeongsangnam-do (경남 의령군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A094_en,A094,en,S-search_en_028,"I'm traveling to Goheung-gun, Jeollanam-do (전남 고흥군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A051_en,A051,en,S-search_en_028,"I'm traveling to Daedeok-gu, Daejeon (대전 대덕구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A111_en,A111,en,S-search_en_028,"I'm traveling to Seocheon-gun, Chungcheongnam-do (충남 서천군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A023_en,A023,en,S-search_en_028,"I'm traveling to Gangbuk-gu, Seoul (서울 강북구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A075_en,A075,en,S-search_en_029,"I'm traveling to Ongjin-gun, Incheon (인천 옹진군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A124_en,A124,en,S-search_en_029,"I'm traveling to Gunpo-si, Gyeonggi-do (경기 군포시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A079_en,A079,en,S-search_en_029,"I'm traveling to Yangyang-gun, Gangwon (강원 양양군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A116_en,A116,en,S-search_en_029,"I'm traveling to Yongin-si, Gyeonggi-do (경기 용인시) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A125_en,A125,en,S-search_en_029,"I'm traveling to Buyeo-gun, Chungcheongnam-do (충남 부여군) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A027_en,A027,en,S-search_en_030,"I'm traveling to Mapo-gu, Seoul (서울 마포구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A011_en,A011,en,S-search_en_030,"I'm traveling to Seo-gu, Daegu (대구 서구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A069_en,A069,en,S-search_en_030,"I'm traveling to Nam-gu, Ulsan (울산 남구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A037_en,A037,en,S-search_en_030,"I'm traveling to Nam-gu, Gwangju (광주 남구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."
+A015_en,A015,en,S-search_en_030,"I'm traveling to Gwangjin-gu, Seoul (서울 광진구) in South Korea. Can you recommend 5 restaurants worth visiting there? For each one, please give the restaurant's name in Korean (Hangul) and its address."

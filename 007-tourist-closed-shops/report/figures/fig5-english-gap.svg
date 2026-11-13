@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 287" role="img" aria-labelledby="f5-t f5-d" font-family="'Wanted Sans Variable', 'Wanted Sans', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<title id="f5-t">그림 5. 영어로 물으면 이름과 주소가 흔들려요</title>
+<desc id="f5-d">정부 기록에서 이름을 못 찾은 비율 한국어 18%, 영어 30%. 다른 시군구 주소 비율 한국어 2%, 영어 16%</desc>
+<rect width="360" height="287" fill="#FBFAF7"/>
+<text x="16" y="30" font-size="14" font-weight="700" fill="#141414" text-anchor="start">정부 기록에서 이름을 못 찾은 식당</text>
+<text x="16" y="64" font-size="13" font-weight="600" fill="#4A4844" text-anchor="start">한국어</text>
+<rect x="70" y="50" width="43.2" height="20" fill="#B9B3A7"/>
+<text x="121.19999999999999" y="65" font-size="13" font-weight="700" fill="#141414" text-anchor="start">18%</text>
+<text x="16" y="92" font-size="13" font-weight="600" fill="#4A4844" text-anchor="start">영어</text>
+<rect x="70" y="78" width="72.0" height="20" fill="#DA2D2D"/>
+<text x="150.0" y="93" font-size="13" font-weight="700" fill="#141414" text-anchor="start">30%</text>
+<text x="16" y="124" font-size="14" font-weight="700" fill="#141414" text-anchor="start">물어본 시군구가 아닌 주소를 적은 식당</text>
+<text x="16" y="158" font-size="13" font-weight="600" fill="#4A4844" text-anchor="start">한국어</text>
+<rect x="70" y="144" width="4.8" height="20" fill="#B9B3A7"/>
+<text x="82.8" y="159" font-size="13" font-weight="700" fill="#141414" text-anchor="start">2%</text>
+<text x="16" y="186" font-size="13" font-weight="600" fill="#4A4844" text-anchor="start">영어</text>
+<rect x="70" y="172" width="38.4" height="20" fill="#DA2D2D"/>
+<text x="116.4" y="187" font-size="13" font-weight="700" fill="#141414" text-anchor="start">16%</text>
+<line x1="16" y1="208" x2="344" y2="208" stroke="#D6D1C7"/>
+<text x="16" y="232" font-size="15" font-weight="700" fill="#141414" text-anchor="start">영어로 물으면 이름과 주소가 흔들려요</text>
+<text x="16" y="256" font-size="13" font-weight="500" fill="#4A4844" text-anchor="start">외국인 손님은 이 이름으로 지도에서 가게를 못 찾을 수 있어요</text>
+</svg>
